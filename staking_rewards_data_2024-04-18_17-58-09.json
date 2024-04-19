@@ -1,0 +1,11 @@
+{
+    "errors": [
+        {
+            "message": "reached monthly quota limit",
+            "extensions": {
+                "code": 401
+            }
+        }
+    ],
+    "data": null
+}

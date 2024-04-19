@@ -1,0 +1,3394 @@
+{
+    "data": {
+        "assets": [
+            {
+                "id": "5d27aa08e03dd80007d1ea6e",
+                "name": "Cardano",
+                "slug": "cardano",
+                "symbol": "ADA",
+                "metrics": [
+                    {
+                        "metricKey": "active_staked_tokens",
+                        "unit": null,
+                        "defaultValue": 22909910218.203175,
+                        "changePercentages": "{\"1y\": -2.402619426602579, \"7d\": -0.013403392656675185, \"24h\": 0, \"30d\": -0.9643328387712914, \"90d\": -1.1089801279932476}"
+                    },
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 1063,
+                        "changePercentages": "{\"1y\": 4.523107177974435, \"7d\": -0.09398496240601503, \"24h\": 0, \"30d\": -2.3875114784205693, \"90d\": -3.3636363636363638}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 662075412.0463578,
+                        "changePercentages": "{\"1y\": -9.268054736463018, \"7d\": -1.2679688689959894, \"24h\": 0, \"30d\": -3.6777913026458844, \"90d\": -5.693420137219441}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 301748813.9450721,
+                        "changePercentages": "{\"1y\": -10.208972213323566, \"7d\": -22.130877008313874, \"24h\": 0.5471207769115022, \"30d\": -29.61900882997058, \"90d\": -10.482737643507194}"
+                    },
+                    {
+                        "metricKey": "average_fee_per_transaction",
+                        "unit": null,
+                        "defaultValue": 0.3425244383333333,
+                        "changePercentages": "{\"1y\": -1.4241781700375988, \"7d\": 0.7425241350983209, \"24h\": -0.032825418572292035, \"30d\": 1.330574415511502, \"90d\": -3.4180476425804116}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 20.296083966411405,
+                        "changePercentages": "{\"1y\": 27011.234791310046, \"7d\": -5.3267545355626895, \"24h\": -0.0021477145948255645, \"30d\": -6.141322520897545, \"90d\": 4.885284263849496}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ADA",
+                        "defaultValue": 19668.306440961558,
+                        "changePercentages": "{\"1y\": -99.37541052278769, \"7d\": 0.8782734924590514, \"24h\": 0.09282351286917045, \"30d\": 11.94578044658729, \"90d\": -23.659557055545548}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 20,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 96.78392112928184,
+                        "changePercentages": "{\"1y\": -0.6635828961419846, \"7d\": -0.012399292290580337, \"24h\": -0.00003456829890335178, \"30d\": -0.07407594383169532, \"90d\": -0.07810577292846455}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "ADA",
+                        "defaultValue": 35615389589.60535,
+                        "changePercentages": "{\"1y\": 2.4095011111853806, \"7d\": 0.025286947409036108, \"24h\": -0.00003456829891205482, \"30d\": 0.1551839652069568, \"90d\": 0.6223699820908954}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa09e03dd80007d1ea75",
+                "name": "Dash",
+                "slug": "dash",
+                "symbol": "DASH",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 4951,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 6549090.402840275,
+                        "changePercentages": "{\"1y\": -37.755290265104605, \"7d\": 10.347739779303533, \"24h\": 2.1693038390350536, \"30d\": 4.822489720615128, \"90d\": -11.796839908280758}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "DASH",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "DASH",
+                        "defaultValue": 2.309672287052501,
+                        "changePercentages": "{\"1y\": -7.142857142857135, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 157.5819127627338,
+                        "changePercentages": "{\"1y\": 0.009441322913780484, \"7d\": -0.00019871698635845865, \"24h\": -0.00010418141915267622, \"30d\": -0.0005068220847515424, \"90d\": -0.0010349980192375188}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 150,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 60.85397836849577,
+                        "changePercentages": "{\"1y\": 4.929169217952592, \"7d\": 0.10236707092411268, \"24h\": 0.0476404589246205, \"30d\": 0.367548833478083, \"90d\": 1.112355719951976}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 11513572.7073194,
+                        "changePercentages": "{\"1y\": 4.9291692179525874, \"7d\": 0.10236707092411358, \"24h\": 0.04764045892462211, \"30d\": 0.36754883347809053, \"90d\": 1.1123557199519907}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 38542043.76909386,
+                        "changePercentages": "{\"1y\": -41.972859488317965, \"7d\": 2.454143346213225, \"24h\": -21.37563527108878, \"30d\": -56.23379667787432, \"90d\": 13.290241359641364}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 2.449727014942895,
+                        "changePercentages": "{\"1y\": -6.897244143877251, \"7d\": 0.000198717196183826, \"24h\": 0.00010418215534837537, \"30d\": 0.0005068247623658638, \"90d\": 0.0010350084460315212}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0ae03dd80007d1eac8",
+                "name": "Stellar",
+                "slug": "stellar",
+                "symbol": "XLM",
+                "metrics": [
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "XLM",
+                        "defaultValue": 27318729852.4156,
+                        "changePercentages": "{\"1y\": 8.535076535407118, \"7d\": 0.30024018161614346, \"24h\": 0.04531752381057462, \"30d\": 1.0883027334506017, \"90d\": 2.060938048053216}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 104442848.0,
+                        "changePercentages": "{\"1y\": 126.79733001306492, \"7d\": 12.060316972280292, \"24h\": 65.3652075342649, \"30d\": 129.74153048079498, \"90d\": 109.33443244471617}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 3413115120.0,
+                        "changePercentages": "{\"1y\": 41.19318934759148, \"7d\": 1.3449734466949677, \"24h\": 0.1804457073783618, \"30d\": 3.6097779926112663, \"90d\": 0.6371883226855761}"
+                    },
+                    {
+                        "metricKey": "market_cap",
+                        "unit": null,
+                        "defaultValue": 3290285413.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "price",
+                        "unit": "USD",
+                        "defaultValue": 0.120034,
+                        "changePercentages": "{\"1h\": 0.6218076821663706, \"1y\": 36.388453221114666, \"7d\": 0.584887987971283, \"24h\": 4.556951645782185, \"30d\": 3.568581225457058}"
+                    },
+                    {
+                        "metricKey": "price_roi_365d",
+                        "unit": null,
+                        "defaultValue": 35.565801547472034,
+                        "changePercentages": "{\"1y\": -200.99306557908525, \"7d\": 23.9089186444852, \"24h\": 17.38803407767617, \"30d\": 50.406304551875394, \"90d\": 3.5094759565552183}"
+                    },
+                    {
+                        "metricKey": "total_supply",
+                        "unit": "XLM",
+                        "defaultValue": 50001787265.4736,
+                        "changePercentages": "{\"1y\": -0.0000007308354735016338, \"7d\": 0, \"24h\": 0, \"30d\": -0.00000004199889544736067, \"90d\": -0.00000018730490410883848}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0ce03dd80007d1eb2e",
+                "name": "Tron",
+                "slug": "tron",
+                "symbol": "TRX",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": "SR",
+                        "defaultValue": 27,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 1850112000.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -0.00000000000002577342118764296, \"24h\": 0, \"30d\": -0.00000000000001288671059382148, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 199895351.04,
+                        "changePercentages": "{\"1y\": 101.96205598154728, \"7d\": -9.554742631363085, \"24h\": -2.869548801208235, \"30d\": -7.522638957837629, \"90d\": -1.0268765000091682}"
+                    },
+                    {
+                        "metricKey": "annual_revenue",
+                        "unit": null,
+                        "defaultValue": 480718515.29392725,
+                        "changePercentages": "{\"1y\": -9.137142133396486, \"7d\": -11.685072900141677, \"24h\": -2.6485334821937876, \"30d\": -8.72391270070471, \"90d\": 7.44177587852015}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": "%",
+                        "defaultValue": 5.475555948768524,
+                        "changePercentages": "{\"1y\": 2637.777974384262, \"7d\": -0.11439614931231838, \"24h\": -0.026365894096778558, \"30d\": -1.5101587613406036, \"90d\": -2.799408432177061}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 12179337.58290447,
+                        "changePercentages": "{\"1y\": -29.403968130858477, \"7d\": -2.4686719243248816, \"24h\": 0.474470090591391, \"30d\": -0.7169866335758178, \"90d\": 8.520793870549465}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 3,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 73.14629015450745,
+                        "changePercentages": "{\"1y\": -1.2620931853490949, \"7d\": -0.01922597107488932, \"24h\": -0.0032972680491832615, \"30d\": -0.08791450291147562, \"90d\": -0.2442530020815709}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "TRX",
+                        "defaultValue": 64086479318.70203,
+                        "changePercentages": "{\"1y\": -4.699883940073046, \"7d\": -0.07159521416419493, \"24h\": -0.012278631400059806, \"30d\": -0.32738308195524185, \"90d\": -0.9095689753229358}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 512695901.5772917,
+                        "changePercentages": "{\"1y\": 77.7218281280743, \"7d\": 46.23759996297625, \"24h\": 7.97114612259132, \"30d\": -39.713436760810836, \"90d\": 12.454778921322104}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0de03dd80007d1eb32",
+                "name": "Zilliqa",
+                "slug": "zilliqa",
+                "symbol": "ZIL",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 27670215.506832894,
+                        "changePercentages": "{\"1y\": 87.06807416068322, \"7d\": 4.899366361856893, \"24h\": 12.110864369863554, \"30d\": 94.95002781792013, \"90d\": 57.056537252228246}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": "%",
+                        "defaultValue": 0.058789655172413795,
+                        "changePercentages": "{\"1y\": -2.591257185183371, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -1.1285756004813428}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ZIL",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 38.334454221725466,
+                        "changePercentages": "{\"1y\": -10.629095540880268, \"7d\": 11.854564872061367, \"24h\": 2.6990089920839155, \"30d\": 2.6239724356067224, \"90d\": 8.820557582488412}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 35.626734068625645,
+                        "changePercentages": "{\"1y\": -10.475902238563501, \"7d\": 0.5988608154246228, \"24h\": 0.39049881290097405, \"30d\": -0.20306008733202643, \"90d\": 8.00152624111081}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 94.437780310837,
+                        "changePercentages": "{\"1y\": 0.5413382171375034, \"7d\": 0.008410910896795108, \"24h\": 0.0023444908303727665, \"30d\": 0.04168923520080379, \"90d\": 0.1245336663334266}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 17813480186.0179,
+                        "changePercentages": "{\"1y\": 9.732537562853032, \"7d\": 0.16807186361378626, \"24h\": 0.0250000467685443, \"30d\": 0.7318676250973013, \"90d\": 2.2390986113952938}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 72954822.30904147,
+                        "changePercentages": "{\"1y\": 99.72983081200198, \"7d\": 239.8459298422047, \"24h\": 111.39634462808831, \"30d\": -29.583592635900164, \"90d\": 352.3426480612029}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": "USD",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 9.195308243008677,
+                        "changePercentages": "{\"1y\": -8.62634061563689, \"7d\": -0.15939305783891117, \"24h\": -0.02264989418252645, \"30d\": -0.9565159091174623, \"90d\": -2.3358277585781058}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0de03dd80007d1eb42",
+                "name": "Cosmos Hub",
+                "slug": "cosmos",
+                "symbol": "ATOM",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": "",
+                        "defaultValue": 180,
+                        "changePercentages": "{\"1y\": 5.263157894736842, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 18455158.398921184,
+                        "changePercentages": "{\"1y\": -67.28178990013511, \"7d\": -56.31871267452235, \"24h\": -0.5105479872987753, \"30d\": -55.197217919231065, \"90d\": -54.52083098437377}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 149302231.4472724,
+                        "changePercentages": "{\"1y\": -67.66608253443074, \"7d\": -66.88082338677468, \"24h\": -0.01619046176981844, \"30d\": -67.37583195018715, \"90d\": -62.6470581384349}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 7.84384403122807,
+                        "changePercentages": "{\"1y\": 5.9624118024306085, \"7d\": 0.27816767495596795, \"24h\": 0.1453825665239238, \"30d\": 21.371303054841054, \"90d\": 19.008924324781262}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ATOM",
+                        "defaultValue": 185.35883333333334,
+                        "changePercentages": "{\"1y\": 521.794520949481, \"7d\": 8.619606746015616, \"24h\": 0, \"30d\": 67.2966504657939, \"90d\": 73.25927206843423}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "ATOM",
+                        "defaultValue": 9.051532290328625,
+                        "changePercentages": "{\"1y\": -27.77610722918544, \"7d\": 0.22757713445943553, \"24h\": 0.008222814570966604, \"30d\": 0.9788316494402038, \"90d\": 2.938150493835322}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5230450.0,
+                        "changePercentages": "{\"1y\": 2.4669288523417947, \"7d\": 1.1006067447438972, \"24h\": 444.45288753799394, \"30d\": 3.1826036866359444, \"90d\": 1.75388766598026}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 6.0293091416608515,
+                        "changePercentages": "{\"1y\": -2.4075366364270745, \"7d\": -1.0886252616887568, \"24h\": -54.270760642009776, \"30d\": -3.0844382414514966, \"90d\": -1.7236566643405473}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 6.199429908348294,
+                        "changePercentages": "{\"1y\": -13.804831757532332, \"7d\": -0.25393948469831706, \"24h\": 0, \"30d\": -0.04993747415315198, \"90d\": 0.8003645226514811}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0de03dd80007d1eb49",
+                "name": "Ethereum",
+                "slug": "ethereum-2-0",
+                "symbol": "ETH",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": "Validators",
+                        "defaultValue": 985741,
+                        "changePercentages": "{\"1y\": 75.50649420017626, \"7d\": 0.4723236099630316, \"24h\": 0.06567901134307995, \"30d\": 0.8630868939717959, \"90d\": 9.233425345488836}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 1106025.2523310597,
+                        "changePercentages": "{\"1y\": -8.397032982046813, \"7d\": -1.6747683115711027, \"24h\": 0.06567901134308832, \"30d\": -14.480490875830654, \"90d\": -13.67638041400055}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 3372082970.0645046,
+                        "changePercentages": "{\"1y\": 98.43426393412915, \"7d\": -14.917560140254166, \"24h\": 2.305176617792594, \"30d\": -17.61502355480666, \"90d\": 5.862588985355718}"
+                    },
+                    {
+                        "metricKey": "average_validator_balance",
+                        "unit": null,
+                        "defaultValue": 32.11,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "averageValidatorBalance",
+                        "unit": null,
+                        "defaultValue": 32.062900023176795,
+                        "changePercentages": "{\"1y\": -0.13927966992294655, \"7d\": -0.000540553532901272, \"24h\": 0, \"30d\": -0.007220782517460417, \"90d\": -0.019423985402410835}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0.08566666666666667,
+                        "changePercentages": "{\"1y\": -27.859649122807014, \"7d\": 0, \"24h\": 0, \"30d\": -14.262516741321743, \"90d\": -13.347605030773343}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ETH",
+                        "defaultValue": 3198.8892488201654,
+                        "changePercentages": "{\"1y\": 6.748437513204304, \"7d\": -19.58639124878436, \"24h\": -0.8559275749985061, \"30d\": -44.94659387718995, \"90d\": 0.1162546486681564}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 19682211.0,
+                        "changePercentages": "{\"1y\": 5.983062599822488, \"7d\": 0.25446901076509154, \"24h\": 0.01815674438444368, \"30d\": 1.078356147274547, \"90d\": 3.34918227844645}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 12.075471698113208,
+                        "changePercentages": "{\"1y\": -0.041928721173992343, \"7d\": -0.05590496156532613, \"24h\": -0.3214535290006858, \"30d\": -0.5870020964360454, \"90d\": -0.027952480782655408}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 12.091808173166635,
+                        "changePercentages": "{\"1y\": 0.1828699384213481, \"7d\": -0.009796603844011478, \"24h\": -0.002799029669718114, \"30d\": -0.12222429557754164, \"90d\": 0.020059712632954044}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0de03dd80007d1eb59",
+                "name": "Ontology",
+                "slug": "ontology",
+                "symbol": "ONT",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": "",
+                        "defaultValue": 15,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 57036973.279814266,
+                        "changePercentages": "{\"1y\": 14.477260468294375, \"7d\": 47.970905915765634, \"24h\": -0.8770819578568514, \"30d\": 62.775316900752784, \"90d\": 26.359863413188695}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 17398216.107434865,
+                        "changePercentages": "{\"1y\": 77.92827684418697, \"7d\": 20.228110082040303, \"24h\": 3.002119538563274, \"30d\": 60.21892803025557, \"90d\": 68.75015685186924}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 14.160248878325515,
+                        "changePercentages": "{\"1y\": 8326.989892703466, \"7d\": -0.47522989720445535, \"24h\": -0.25497805172444216, \"30d\": -1.3304317112027282, \"90d\": -0.7291545293344034}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 132.18256383240467,
+                        "changePercentages": "{\"1y\": 68.39659027817014, \"7d\": 13.381427017679323, \"24h\": 0.6949116606533137, \"30d\": 3.1463431343894857, \"90d\": -42.16414781167874}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 17395823.0,
+                        "changePercentages": "{\"1y\": 3.424813539442289, \"7d\": 0.19793267374591042, \"24h\": 0.02622581385985675, \"30d\": 0.7037641511907925, \"90d\": 2.011181820010357}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 9.8,
+                        "changePercentages": "{\"1y\": -54.20560747663551, \"7d\": -45.85635359116022, \"24h\": -51.96078431372548, \"30d\": -46.153846153846146, \"90d\": -43.99999999999999}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 90.0197857,
+                        "changePercentages": "{\"1y\": 0.42391890724925024, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0.28407576313079247}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 900197857.0,
+                        "changePercentages": "{\"1y\": 0.4239189072492394, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0.2840757631307975}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 34590733.96479375,
+                        "changePercentages": "{\"1y\": 18.104336805350794, \"7d\": 4.967293610042715, \"24h\": 19.68549729128505, \"30d\": 94.19271249081419, \"90d\": 239.48459487656106}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0de03dd80007d1eb61",
+                "name": "Internet Computer",
+                "slug": "dfinity",
+                "symbol": "ICP",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": -4700.271393329335,
+                        "changePercentages": "{\"1y\": -100.0123679410527, \"7d\": 515.3679448119804, \"24h\": 8984.793382899868, \"30d\": -100.0123679410527, \"90d\": -100.0123679410527}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": -56779.278431418374,
+                        "changePercentages": "{\"1y\": -100.0297253016156, \"7d\": 376.51569059799516, \"24h\": 9393.45190877426, \"30d\": -100.01962412776544, \"90d\": -100.0181612966465}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 89.37286655337819,
+                        "changePercentages": "{\"1y\": 2.5551072671239665, \"7d\": 0.0076229108310950765, \"24h\": 0.00010048252861991624, \"30d\": 0.05825614486698121, \"90d\": 0.6187118464770709}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "ICP",
+                        "defaultValue": 462727796.06638944,
+                        "changePercentages": "{\"1y\": 6.635415449522107, \"7d\": 0.0717306399638073, \"24h\": 0.0009455280590426326, \"30d\": 0.36471114117984166, \"90d\": 1.4093211358281967}"
+                    },
+                    {
+                        "metricKey": "daily_rewards",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": -100, \"90d\": -100}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 215850978.49238917,
+                        "changePercentages": "{\"1y\": 63.93535183552758, \"7d\": 5.123580683778587, \"24h\": 22.812724783643972, \"30d\": -12.188368107562919, \"90d\": 20.05844424750323}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 462727796.06638944,
+                        "changePercentages": "{\"1y\": 0.23988596176116764, \"7d\": 0.0717306399638073, \"24h\": 0.0009455280590426326, \"30d\": 0.23988596176116764, \"90d\": 0.23988596176116764}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": -0.0009697303638112756,
+                        "changePercentages": "{\"1y\": -100.01080808202781, \"7d\": 515.7606234268779, \"24h\": 8988.56917477146, \"30d\": -100.01232729726506, \"90d\": -100.01210185740538}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 5772311783.369747,
+                        "changePercentages": "{\"1y\": 177.92630747617554, \"7d\": -19.173267152756424, \"24h\": 7.8625995621575715, \"30d\": 8.21175707145403, \"90d\": 16.292849709107777}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": -100, \"30d\": -100, \"90d\": -100}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0ee03dd80007d1eb6a",
+                "name": "Algorand",
+                "slug": "algorand",
+                "symbol": "ALGO",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 85557206.15654331,
+                        "changePercentages": "{\"1y\": -2.3766681922196815, \"7d\": 0, \"24h\": 0, \"30d\": -2.3766681922196815, \"90d\": -2.3766681922196646}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 14674429.771145683,
+                        "changePercentages": "{\"1y\": -70.43271247847596, \"7d\": -25.577641530310725, \"24h\": 4.189674338928082, \"30d\": -30.89345344318735, \"90d\": -3.6019057529059264}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 2.82,
+                        "changePercentages": "{\"1y\": -14.545454545454545, \"7d\": 0.714285714285715, \"24h\": -0.7042253521126767, \"30d\": -14.545454545454545, \"90d\": -14.545454545454545}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 3.3028337874659224,
+                        "changePercentages": "{\"1y\": -9.794166032991148, \"7d\": 0.1198524185766656, \"24h\": 0.05778247375031443, \"30d\": 0.0019327538762676283, \"90d\": -0.17859899153346856}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 5,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 99.99999820994098,
+                        "changePercentages": "{\"1y\": 2.969324103708533, \"7d\": 0.00000011032445211660388, \"24h\": -0.0000017900590165709218, \"30d\": 0.000006150295154795646, \"90d\": 12.67219970538951}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "ALGO",
+                        "defaultValue": 8130168157.55558,
+                        "changePercentages": "{\"1y\": 12.637947260005648, \"7d\": 0.059991626467453624, \"24h\": -0.00009309430699773003, \"30d\": 0.7482367247273487, \"90d\": 1.0805923012582046}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 66341046.191911876,
+                        "changePercentages": "{\"1y\": -45.22943144223037, \"7d\": 23.777767232202464, \"24h\": -0.80255990728736, \"30d\": -60.01585054625188, \"90d\": 26.657670592292863}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 8130168157.55558,
+                        "changePercentages": "{\"1y\": 1.080188167428646, \"7d\": 0.059991626467453624, \"24h\": -0.00009309430699773003, \"30d\": 0.7482367247273487, \"90d\": 1.0805923012582046}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0ee03dd80007d1eb6d",
+                "name": "Polkadot",
+                "slug": "polkadot",
+                "symbol": "DOT",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 297,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 88382768.88699889,
+                        "changePercentages": "{\"1y\": -99.7683829597165, \"7d\": 0.155536535822294, \"24h\": -0.004292978743926078, \"30d\": 1.824726136933765, \"90d\": -14.049991561780015}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 592164551.5428926,
+                        "changePercentages": "{\"1y\": -2.4330797418972203, \"7d\": -19.054029579009722, \"24h\": 4.356890505049165, \"30d\": -26.08606011728535, \"90d\": -15.56230842579562}"
+                    },
+                    {
+                        "metricKey": "annual_provisions",
+                        "unit": null,
+                        "defaultValue": 110374131.37574947,
+                        "changePercentages": "{\"1y\": 0.7424658352144733, \"7d\": 0.16391050453052508, \"24h\": -0.0024867415447401577, \"30d\": 1.8547183970940715, \"90d\": 0.7424658352144733}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 34.482745495891756,
+                        "changePercentages": "{\"1y\": 54111.67460549645, \"7d\": -0.6032804191896664, \"24h\": 0.28107753428740306, \"30d\": -1.7632756234888045, \"90d\": 465.03644419903134}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 285.8348849291462,
+                        "changePercentages": "{\"1y\": 788.3914306775943, \"7d\": -7.983017519059553, \"24h\": -1.879310694868011, \"30d\": -22.361341700058883, \"90d\": -94.33271691062806}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 5.88,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": -2.0000000000000018, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 5.914615384615423,
+                        "changePercentages": "{\"1y\": 0.5724930710160897, \"7d\": 0.11500272776873961, \"24h\": -0.02451272956702058, \"30d\": 0.09270396119174315, \"90d\": -0.14625859029713173}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 94.3581854865424,
+                        "changePercentages": "{\"1y\": 0.605645749434434, \"7d\": 0.02512602412009467, \"24h\": 0.01209151695795435, \"30d\": 0.07393390169327556, \"90d\": 0.14272728460146358}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0ee03dd80007d1eb79",
+                "name": "Gnosis",
+                "slug": "gnosis",
+                "symbol": "GNO",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 122815,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0.31856238513375534, \"24h\": 0.046432819042343476, \"30d\": 0.8184340573642648, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 23821.505315363524,
+                        "changePercentages": "{\"1y\": 36.39402736437899, \"7d\": 0.25453167564628554, \"24h\": 0.0033854868771249188, \"30d\": 0.04925531235967025, \"90d\": 36.39402736437899}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 7946139.528045811,
+                        "changePercentages": "{\"1y\": 313.9837712147047, \"7d\": -11.035104732521061, \"24h\": 0.1896059374008191, \"30d\": 7.158457791368536, \"90d\": 56.59985443133551}"
+                    },
+                    {
+                        "metricKey": "block_number",
+                        "unit": null,
+                        "defaultValue": 869230,
+                        "changePercentages": "{\"1y\": 0.9021914010897805, \"7d\": 0.8656602109611613, \"24h\": 0.11483092672128334, \"30d\": 0.9021914010897805, \"90d\": 0.9021914010897805}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": "s",
+                        "defaultValue": 5,
+                        "changePercentages": "{\"1y\": -93.75, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -93.75}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 5.237445086705203,
+                        "changePercentages": "{\"1y\": -0.0868926610987571, \"7d\": -0.4146823451439065, \"24h\": -0.13490546697793196, \"30d\": -0.4732333903305393, \"90d\": -1.0925416836534885}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 86.31963333333333,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "GNO",
+                        "defaultValue": 2589589.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 4868051.600840441,
+                        "changePercentages": "{\"1y\": 61.877196661195, \"7d\": 7.2835105645873535, \"24h\": 15.98475587393597, \"30d\": -62.40029514921749, \"90d\": 34.50500203833104}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 3000000.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0fe03dd80007d1ebb8",
+                "name": "IRISnet",
+                "slug": "irisnet",
+                "symbol": "IRIS",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": "",
+                        "defaultValue": 115,
+                        "changePercentages": "{\"1y\": 1.7699115044247788, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 4.545454545454546}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -100}"
+                    },
+                    {
+                        "metricKey": "annual_provisions",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 8.608412209078363,
+                        "changePercentages": "{\"1y\": 8042.808012829396, \"7d\": 0.2781638706883339, \"24h\": -0.017570779194573914, \"30d\": 3.898177031375573, \"90d\": 6649.791064928182}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "IRIS",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 24571414.0,
+                        "changePercentages": "{\"1y\": 4.919614082006634, \"7d\": 0.39224264712040996, \"24h\": 0.05176576725291781, \"30d\": 1.7165806782569701, \"90d\": 4.919614082006634}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "IRIS",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -100}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5005878.76460162,
+                        "changePercentages": "{\"1y\": -1.5000624178453348, \"7d\": -1.090131058567212, \"24h\": -1.234913590518724, \"30d\": -0.6448465820094503, \"90d\": -1.5000624178453348}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 6.2997929999828335,
+                        "changePercentages": "{\"1y\": 1.522906973006145, \"7d\": 1.1021458932603598, \"24h\": 1.2503543867706015, \"30d\": 0.6490318416565279, \"90d\": 1.522906973006145}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa0fe03dd80007d1ebca",
+                "name": "Energi",
+                "slug": "energi",
+                "symbol": "NRG",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 490,
+                        "changePercentages": "{\"1y\": -7.196969696969697, \"7d\": -5.769230769230769, \"24h\": -0.40650406504065045, \"30d\": -9.760589318600369, \"90d\": -4.483430799220272}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 14181009.795918368,
+                        "changePercentages": "{\"1y\": 4.217119817779585, \"7d\": 3.84959565296935, \"24h\": -0.2122785262405721, \"30d\": 2.442574914780267, \"90d\": 5.688333580984494}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 1864533.3489771427,
+                        "changePercentages": "{\"1y\": -7.041606025439756, \"7d\": -17.08063639150015, \"24h\": -2.3192194056495996, \"30d\": -20.35447954131671, \"90d\": 26.779138270577157}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "NRG",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 2158326.0,
+                        "changePercentages": "{\"1y\": 11.373270633839047, \"7d\": 0.4626729088720556, \"24h\": 0.06101038010950344, \"30d\": 2.0355330693164793, \"90d\": 6.385938277872799}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "NRG",
+                        "defaultValue": 13.7,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 68.624,
+                        "changePercentages": "{\"1y\": 1903.0356100408635, \"7d\": 91.26508542601522, \"24h\": 4.732689284678662, \"30d\": 360.84211940098044, \"90d\": 133.9321629452872}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 60,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa10e03dd80007d1ebeb",
+                "name": "Secret Network",
+                "slug": "secret-network",
+                "symbol": "SCRT",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 77,
+                        "changePercentages": "{\"1y\": -3.75, \"7d\": -2.5316455696202533, \"24h\": 0, \"30d\": 2.666666666666667, \"90d\": 2.666666666666667}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 25793354.91892514,
+                        "changePercentages": "{\"1y\": 2.3807346575910495, \"7d\": 0.16860850149645668, \"24h\": -0.008717499603837529, \"30d\": 0.8188289716850319, \"90d\": 2.3807346575910495}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 10525133.234796917,
+                        "changePercentages": "{\"1y\": -64.88989867171925, \"7d\": -30.510529044581634, \"24h\": -2.0408508286937352, \"30d\": -34.055624985181, \"90d\": 17.569979928762294}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 4.571249299438105,
+                        "changePercentages": "{\"1y\": -15.281428274239703, \"7d\": -1.156318843580957, \"24h\": 0.0013469190287001105, \"30d\": -5.583925095485762, \"90d\": -8.504164761330404}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "SCRT",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": null,
+                        "defaultValue": 4.866585745237102,
+                        "changePercentages": "{\"1y\": -40.909389352499346, \"7d\": 0.17163431942618046, \"24h\": 0.024274659615887047, \"30d\": 0.7374489231193411, \"90d\": 2.066821570673533}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5444780.5227289,
+                        "changePercentages": "{\"1y\": 2.1681227903763376, \"7d\": 0.16341592840022792, \"24h\": 1.8456245149382249, \"30d\": 1.7816739006013331, \"90d\": 2.1681227903763376}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 5.79196900010109,
+                        "changePercentages": "{\"1y\": -2.1221127795651067, \"7d\": -0.1631493164301071, \"24h\": -1.8121785042100962, \"30d\": -1.7504859493088172, \"90d\": -2.1221127795651067}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 5.898007249996114,
+                        "changePercentages": "{\"1y\": 2.690595789649324, \"7d\": -0.11718420564275939, \"24h\": -0.026621167986355183, \"30d\": -0.0002042122798301899, \"90d\": 0.6542507288378435}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 5,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa10e03dd80007d1ebfa",
+                "name": "Orbs",
+                "slug": "orbs",
+                "symbol": "ORBS",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 27,
+                        "changePercentages": "{\"1y\": 3.8461538461538463, \"7d\": -3.571428571428571, \"24h\": 0, \"30d\": 3.8461538461538463, \"90d\": 8}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 3184026.596379831,
+                        "changePercentages": "{\"1y\": 56.035724750174474, \"7d\": 14.064689821023663, \"24h\": 3.520783793334899, \"30d\": 44.771584406165296, \"90d\": 24.449005802380793}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0.33332999999998963,
+                        "changePercentages": "{\"1y\": -0.0000000001376079688666686, \"7d\": 0.0000000000010991317856968083, \"24h\": 0, \"30d\": -0.000000000002448066249960986, \"90d\": 0.0000000000007494080357023666}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 42.95197565,
+                        "changePercentages": "{\"1y\": 34.6226767434589, \"7d\": 0.5648464087849111, \"24h\": 0, \"30d\": 2.353180838564831, \"90d\": 7.215651991766937}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "",
+                        "defaultValue": 4295197565.0,
+                        "changePercentages": "{\"1y\": 34.62267674345889, \"7d\": 0.5648464087849091, \"24h\": 0, \"30d\": 2.3531808385648207, \"90d\": 7.215651991766929}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 345286629.22628224,
+                        "changePercentages": "{\"1y\": 16047.198808287567, \"7d\": 9400.498440377123, \"24h\": 4534.117933811072, \"30d\": 3392.4067475992365, \"90d\": 6056.285996468767}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 4295197565.0,
+                        "changePercentages": "{\"1y\": 34.62267674345889, \"7d\": 0.5648464087849091, \"24h\": 0, \"30d\": 2.3531808385648207, \"90d\": 7.215651991766929}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 2.0983228928609248,
+                        "changePercentages": "{\"1y\": -29.46785083242721, \"7d\": -0.6248108906371885, \"24h\": 0.0005457876814090356, \"30d\": -2.6547911862666895, \"90d\": -6.674808159827279}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 222920753.62350002,
+                        "changePercentages": "{\"1y\": 115.19596742062616, \"7d\": 23.793785790477003, \"24h\": 12.377067283333131, \"30d\": 0.645761824422606, \"90d\": 48.83013467779043}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": 7210.992383999999,
+                        "changePercentages": "{\"1y\": -126.30753607292544, \"7d\": -104.44656622255467, \"24h\": 7.705700117431298, \"30d\": -37.1585095268599, \"90d\": -91.72555829875584}"
+                    }
+                ]
+            },
+            {
+                "id": "5d27aa10e03dd80007d1ec0c",
+                "name": "Terra Classic",
+                "slug": "terra",
+                "symbol": "LUNC",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annual_provisions",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 9.495700445981093,
+                        "changePercentages": "{\"1y\": -3.579077862017944, \"7d\": -3.5268961293374326, \"24h\": -1.1707517387108752, \"30d\": 2.757217487367018, \"90d\": -3.579077862017944}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5264605.875815317,
+                        "changePercentages": "{\"1y\": 0.45487689991440106, \"7d\": -1.4024425231403947, \"24h\": 0.06285274503654166, \"30d\": -0.298154047405452, \"90d\": 0.45487689991440106}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 5.990191999912262,
+                        "changePercentages": "{\"1y\": -0.4528171393486554, \"7d\": 1.4223907356625336, \"24h\": -0.0628132651751309, \"30d\": 0.299045664156713, \"90d\": -0.4528171393486554}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 6.661803251594458,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5d34818ecb1d1f0007826c32",
+                "name": "Tezos",
+                "slug": "tezos",
+                "symbol": "XTZ",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 403,
+                        "changePercentages": "{\"1y\": 139.88095238095238, \"7d\": -0.49382716049382713, \"24h\": 0, \"30d\": 2.5445292620865136, \"90d\": 4.947916666666666}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 40904724.144862145,
+                        "changePercentages": "{\"1y\": 0.8411325467093851, \"7d\": 0.09826575324514615, \"24h\": 0.2732749588572419, \"30d\": 1.4694983018065007, \"90d\": 3.2078299154682037}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 38978029.82819085,
+                        "changePercentages": "{\"1y\": -10.104414393487419, \"7d\": -24.894931307294655, \"24h\": -1.205585866953879, \"30d\": -18.05925254847897, \"90d\": -2.045284152599784}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 12.206811673022234,
+                        "changePercentages": "{\"1y\": 12510.8437040004, \"7d\": -0.18103443432095268, \"24h\": -0.05310749057586213, \"30d\": 0.04883437958359971, \"90d\": -15.767172219157649}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "\ua729",
+                        "defaultValue": 255616600.73275775,
+                        "changePercentages": "{\"1y\": -21.549758679184748, \"7d\": 9.508933208746988, \"24h\": -0.3790659087119705, \"30d\": -25.987696755447477, \"90d\": 7.22573259184021}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "\ua729",
+                        "defaultValue": 19.999238,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 15.162908935546875,
+                        "changePercentages": "{\"1y\": -23.18968194294843, \"7d\": -0.172908879471697, \"24h\": 0, \"30d\": -3.6971467225395522, \"90d\": -0.2794977950862205}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 30,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 97.94042890017117,
+                        "changePercentages": "{\"1y\": 0.16809030360928118, \"7d\": 0.005004277641680895, \"24h\": 0.0031970070651781654, \"30d\": 0.014143046140259708, \"90d\": 0.060174777972406064}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "\ua729",
+                        "defaultValue": 978626683.088213,
+                        "changePercentages": "{\"1y\": 4.705910493919185, \"7d\": 0.08231322638560588, \"24h\": 0.009486579857365297, \"30d\": 0.36751381165148667, \"90d\": 1.1228977506156428}"
+                    }
+                ]
+            },
+            {
+                "id": "5d46b5c3761531000737af0f",
+                "name": "Synthetix Network Token",
+                "slug": "synthetix-network-token",
+                "symbol": "SNX",
+                "metrics": [
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 114841533.01197928,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 100007527.18627547,
+                        "changePercentages": "{\"1y\": 138.53433365140378, \"7d\": 219.68205930801318, \"24h\": 237.40883489382773, \"30d\": 40.62297769791182, \"90d\": 262.4785418185548}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 22.71989493587121,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 367492905.63833374,
+                        "changePercentages": "{\"1y\": -55.879484823558, \"7d\": -19.191919191919187, \"24h\": -17.098445595854912, \"30d\": -34.15637860082304, \"90d\": -14.438502673796794}"
+                    },
+                    {
+                        "metricKey": "price",
+                        "unit": "USD",
+                        "defaultValue": 3.2,
+                        "changePercentages": "{\"1y\": 22.137404580152673, \"7d\": -19.191919191919187, \"24h\": -17.098445595854912, \"30d\": -34.15637860082305, \"90d\": -14.43850267379679}"
+                    },
+                    {
+                        "metricKey": "price_roi_365d",
+                        "unit": null,
+                        "defaultValue": 17.153284671532838,
+                        "changePercentages": "{\"1y\": -171.0636079249218, \"7d\": -64.21932025547447, \"24h\": -62.57465162574653, \"30d\": -65.90390040750528, \"90d\": -76.1820633223302}"
+                    },
+                    {
+                        "metricKey": "real_reward_rate",
+                        "unit": null,
+                        "defaultValue": -22.492695986512498,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "reward_rate",
+                        "unit": null,
+                        "defaultValue": 0.2271989493587121,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "staked_tokens",
+                        "unit": null,
+                        "defaultValue": 106336729.96517548,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "staking_marketcap",
+                        "unit": "USD",
+                        "defaultValue": 538063853.6237879,
+                        "changePercentages": "{\"1y\": 80.07117437722417, \"7d\": 18.224299065420553, \"24h\": 7.2033898305084705, \"30d\": 49.26253687315633, \"90d\": 16.859122401847564}"
+                    }
+                ]
+            },
+            {
+                "id": "5d46b5c3761531000737af10",
+                "name": "Harmony",
+                "slug": "harmony",
+                "symbol": "ONE",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 68,
+                        "changePercentages": "{\"1y\": -51.07913669064749, \"7d\": -2.857142857142857, \"24h\": 0, \"30d\": 4.615384615384616, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 14770149.935717646,
+                        "changePercentages": "{\"1y\": 105.22453454360627, \"7d\": 14.979989674537697, \"24h\": 2.5760990691322263, \"30d\": 144.63891607634395, \"90d\": 133.4734320696012}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": "%",
+                        "defaultValue": 0.08808823529411765,
+                        "changePercentages": "{\"1y\": 29.570309800975174, \"7d\": -0.22368170569198598, \"24h\": 0, \"30d\": -0.24851403976224734, \"90d\": 9.506398537477146}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ONE",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": null,
+                        "defaultValue": 28,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 8,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 95.24299149800024,
+                        "changePercentages": "{\"1y\": -8.723178139821108, \"7d\": 0.002181231296099728, \"24h\": 0.0001559698895206275, \"30d\": 0.18955526982371937, \"90d\": 0.5721222133284298}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 13847210635.262907,
+                        "changePercentages": "{\"1y\": 5.322033518749013, \"7d\": 0.045853003945190506, \"24h\": 0.003278738927288098, \"30d\": 0.38162495804176544, \"90d\": 1.1362714363516386}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 26293102.348792084,
+                        "changePercentages": "{\"1y\": 12.930764710670125, \"7d\": 268.3131196158475, \"24h\": 180.4841491551161, \"30d\": 11.053241457281025, \"90d\": 309.74541468946717}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 3.1847569277018297,
+                        "changePercentages": "{\"1y\": -5.0531055477594915, \"7d\": -0.045831988601656624, \"24h\": -0.003278631429517363, \"30d\": -0.3801741187207222, \"90d\": -1.1235053657942358}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc6d77ab3b1090007f5c041",
+                "name": "Solana",
+                "slug": "solana",
+                "symbol": "SOL",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 1756,
+                        "changePercentages": "{\"1y\": 9.887359198998748, \"7d\": 0.8036739380022963, \"24h\": 0.8036739380022963, \"30d\": 3.7825059101654848, \"90d\": 2.6300409117475163}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 27328424.02355377,
+                        "changePercentages": "{\"1y\": -2.8157207376129314, \"7d\": -0.1845287824413636, \"24h\": -0.0006685127544497014, \"30d\": -0.8072960446902872, \"90d\": -2.2341099587013353}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 3630307847.2888827,
+                        "changePercentages": "{\"1y\": 462.4122052834619, \"7d\": -23.204638036948406, \"24h\": 1.1413978587307618, \"30d\": -27.532537021265245, \"90d\": 56.130562415570715}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 5.107270224867019,
+                        "changePercentages": "{\"1y\": 3902.754651064538, \"7d\": -1.3047206297361889, \"24h\": -0.15083957817673643, \"30d\": -4.018091532153381, \"90d\": 7747.149295552998}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 4905.5275797185,
+                        "changePercentages": "{\"1y\": -91.77701115877, \"7d\": 1.4649427237324535, \"24h\": 0.9625676659089328, \"30d\": 51.005976365303106, \"90d\": 145.45985170034444}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 260846944.0,
+                        "changePercentages": "{\"1y\": 8.593802933464174, \"7d\": 0.4946618255295531, \"24h\": 0.07587516793070545, \"30d\": 2.226746439603713, \"90d\": 6.5271808154049}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 0.44882184266300845,
+                        "changePercentages": "{\"1y\": 2.0049642415928295, \"7d\": -0.000000000000012368192889608893, \"24h\": 0, \"30d\": 0, \"90d\": 12.205460665752108}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 0.4811121612569338,
+                        "changePercentages": "{\"1y\": -13.2661104658968, \"7d\": -3.569533660549002, \"24h\": -0.7016378825243528, \"30d\": -2.8288421461220588, \"90d\": 10.927123916392302}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 0.4,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 77.8059378353455,
+                        "changePercentages": "{\"1y\": 8.187736786613034, \"7d\": 0.10870139674697722, \"24h\": -0.0010260346735077623, \"30d\": 0.286923149196073, \"90d\": 2.012534608237651}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc82fc27b2b64000719f9ca",
+                "name": "NEAR Protocol",
+                "slug": "near-protocol",
+                "symbol": "NEAR",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 208,
+                        "changePercentages": "{\"1y\": 2.4630541871921183, \"7d\": 8.333333333333332, \"24h\": 0, \"30d\": 1.4634146341463417, \"90d\": 0.9708737864077669}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 53246077.68050549,
+                        "changePercentages": "{\"1y\": 35.956443129486146, \"7d\": 0, \"24h\": 0, \"30d\": 0.10227325347139533, \"90d\": 8.184304078435197}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 301905260.4484661,
+                        "changePercentages": "{\"1y\": 167.82900934830255, \"7d\": -18.181818181818183, \"24h\": 5.783582089552238, \"30d\": -14.777794392314906, \"90d\": 103.78903791519187}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 7.68235613481818,
+                        "changePercentages": "{\"1y\": 10632.123908680147, \"7d\": 0.027200765986911155, \"24h\": -0.03709653906754409, \"30d\": -0.7650395346843555, \"90d\": -2.643321256296147}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 90.13667414007041,
+                        "changePercentages": "{\"1y\": 4.976670271513597, \"7d\": 0.5422549448873356, \"24h\": -0.030670354791155516, \"30d\": 2.530146900186373, \"90d\": 2.903215096761722}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 1066538745.1388,
+                        "changePercentages": "{\"1y\": 19.812302953781472, \"7d\": 0.5422549448873231, \"24h\": -0.030670354791163385, \"30d\": 2.635007817210209, \"90d\": 3.804553391070753}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 780859478.995383,
+                        "changePercentages": "{\"1y\": 478.6538319305663, \"7d\": 59.48050049070296, \"24h\": 21.091107103919654, \"30d\": -37.037046640351974, \"90d\": 325.82380519829525}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 1183246170.6779,
+                        "changePercentages": "{\"1y\": 1.7240160044475226, \"7d\": 0, \"24h\": 0, \"30d\": 0.10227325347141271, \"90d\": 0.8759087784200852}"
+                    },
+                    {
+                        "metricKey": "epoch_end_height",
+                        "unit": null,
+                        "defaultValue": 112722702.0,
+                        "changePercentages": "{\"1y\": 6.663068546089482, \"7d\": 0.42335017842980593, \"24h\": 0.03833882758906762, \"30d\": 2.113237695538834, \"90d\": 6.575936966949904}"
+                    },
+                    {
+                        "metricKey": "epoch_start_height",
+                        "unit": null,
+                        "defaultValue": 112765902.0,
+                        "changePercentages": "{\"1y\": 6.660345949991553, \"7d\": 0.423187308954574, \"24h\": 0.03832413456519167, \"30d\": 2.11241102429968, \"90d\": 6.573252167753396}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc833b7b3b1090007f5d425",
+                "name": "Kava",
+                "slug": "kava",
+                "symbol": "KAVA",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 98,
+                        "changePercentages": "{\"1y\": 1.0309278350515463, \"7d\": -1.0101010101010102, \"24h\": -1.0101010101010102, \"30d\": -2, \"90d\": -2}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 9999999.999999998,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": -4.958479692727731, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 6529089.999999998,
+                        "changePercentages": "{\"1y\": -57.28086906336166, \"7d\": -29.019208796321973, \"24h\": 4.43636491600737, \"30d\": -30.736558025347744, \"90d\": -5.87980054692468}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 6.959233580746835,
+                        "changePercentages": "{\"1y\": 64.95659257080703, \"7d\": 2.592469922549903, \"24h\": 2.3064869891180915, \"30d\": -0.5730029857938476, \"90d\": -0.7573223468298772}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "KAVA",
+                        "defaultValue": 7.104447743719178e-05,
+                        "changePercentages": "{\"1y\": -89.65297692213802, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "KAVA",
+                        "defaultValue": 1.9613122833874552,
+                        "changePercentages": "{\"1y\": -97.16488492639427, \"7d\": -0.26433251552049974, \"24h\": -0.0351654096022168, \"30d\": -0.7743769663977716, \"90d\": -0.8151229652413102}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 6.189641999959946,
+                        "changePercentages": "{\"1y\": -0.7438021707611179, \"7d\": 0.7248376764577339, \"24h\": -0.03109067850978026, \"30d\": -1.5834375888660532, \"90d\": -0.7438021707611179}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 6.32429447215295,
+                        "changePercentages": "{\"1y\": -1.0346886359831464, \"7d\": 0.26500034492044894, \"24h\": 0.002912606765177766, \"30d\": 1.2884921920631554, \"90d\": 0.13112292554752733}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 5.999999999989979,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -0.00000009234798872624377, \"24h\": -0.00000009234798872624377, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc8355491a51900085071ed",
+                "name": "Cronos",
+                "slug": "crypto-com-coin",
+                "symbol": "CRO",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 2.0408163265306123, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 729014575.0318493,
+                        "changePercentages": "{\"1y\": 34.77664981725214, \"7d\": 2.8474868268253823, \"24h\": 0.3582886541521431, \"30d\": 12.736191634356603, \"90d\": 33.79166751889913}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 91016740.67815135,
+                        "changePercentages": "{\"1y\": 255.1505539526924, \"7d\": -11.497967530689905, \"24h\": 2.8131419255443713, \"30d\": 13.919651558516168, \"90d\": 102.63433210082174}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 8.951293978938178,
+                        "changePercentages": "{\"1y\": 13.257973776948177, \"7d\": 0.8360553434552096, \"24h\": 2.5583926190335378, \"30d\": 1.9588024703361537, \"90d\": 5.022875661477466}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "CRO",
+                        "defaultValue": 139.810346115151,
+                        "changePercentages": "{\"1y\": 35.13911126446324, \"7d\": 2.5687808476315253, \"24h\": 0.35090461012525087, \"30d\": 11.915238506564544, \"90d\": 33.3042820655835}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": "Seconds",
+                        "defaultValue": 5.151631999969482,
+                        "changePercentages": "{\"1y\": -0.8850588428415586, \"7d\": 0.20209124305522755, \"24h\": 0.3181512065372618, \"30d\": 0.04909591800601738, \"90d\": 0.22298381702422643}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 5.193998279013604,
+                        "changePercentages": "{\"1y\": -5.386344338441381, \"7d\": -0.043505433406563813, \"24h\": -0.0009194469181056025, \"30d\": -0.11536579481323658, \"90d\": -0.8617629791410026}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 88.88381895958267,
+                        "changePercentages": "{\"1y\": -11.116181040417331, \"7d\": 0.06103437199391526, \"24h\": 0.008798313292331215, \"30d\": 0.2509661845945556, \"90d\": 0.6754749462127605}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "",
+                        "defaultValue": 26665145687.8748,
+                        "changePercentages": "{\"1y\": -11.116181040417327, \"7d\": 0.06103437199392631, \"24h\": 0.008798313292342026, \"30d\": 0.25096618459454934, \"90d\": 0.6754749462127608}"
+                    },
+                    {
+                        "metricKey": "community_tax",
+                        "unit": null,
+                        "defaultValue": 0.15,
+                        "changePercentages": "{\"1y\": -99, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc83e0bb3b1090007f5d427",
+                "name": "SKALE",
+                "slug": "skale",
+                "symbol": "SKL",
+                "metrics": [
+                    {
+                        "metricKey": "active_set_validator_minimum",
+                        "unit": null,
+                        "defaultValue": 20000000.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 45,
+                        "changePercentages": "{\"1y\": -15.09433962264151, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 2.272727272727273}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 275762102.79574835,
+                        "changePercentages": "{\"1y\": 2.121777829355137, \"7d\": 0.16412541468742975, \"24h\": -0.0000000000000648435490276979, \"30d\": 1.6138371646655947, \"90d\": 3.029078499800619}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 25807196.39014011,
+                        "changePercentages": "{\"1y\": 95.5738506252384, \"7d\": -19.70585488818678, \"24h\": -1.6644075276613883, \"30d\": 8.39666417097231, \"90d\": 38.172828399928946}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 11.242455209974981,
+                        "changePercentages": "{\"1y\": 9912.641619726024, \"7d\": 0, \"24h\": 0, \"30d\": -0.008693235282689489, \"90d\": -1.1172909621881826}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 97.81911566179986,
+                        "changePercentages": "{\"1y\": 9.20067907433602, \"7d\": -0.012060903238907466, \"24h\": 0, \"30d\": -0.42808369845555566, \"90d\": -0.4038023580904986}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 5179144337.0,
+                        "changePercentages": "{\"1y\": 15.510861652211272, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0.8748475696491956}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 46273713.60276118,
+                        "changePercentages": "{\"1y\": 45.53895815041529, \"7d\": 26.36237996765897, \"24h\": -24.888471289797952, \"30d\": 17.745024527005747, \"90d\": 26.221740181843806}"
+                    },
+                    {
+                        "metricKey": "delegator_minimum",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 5294613738.79763,
+                        "changePercentages": "{\"1y\": 1.2838340800288144, \"7d\": 0.012062358068239435, \"24h\": 0, \"30d\": 0.4299241335871568, \"90d\": 1.2838340800288144}"
+                    }
+                ]
+            },
+            {
+                "id": "5dc925cfb3b1090007f5e1fd",
+                "name": "Avalanche",
+                "slug": "avalanche",
+                "symbol": "AVAX",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 1740,
+                        "changePercentages": "{\"1y\": 37.87638668779715, \"7d\": 0.6362058993637941, \"24h\": 0.11507479861910241, \"30d\": -2.4116657319125068, \"90d\": 4.693140794223827}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 20594661.310449414,
+                        "changePercentages": "{\"1y\": 2.7870810299604676, \"7d\": -1.4163140633857363, \"24h\": 1.644356445379873, \"30d\": -2.964978314640285, \"90d\": -1.6018484265393724}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 725549917.9671328,
+                        "changePercentages": "{\"1y\": 67.15865365214192, \"7d\": -24.743158059655034, \"24h\": 8.677714038565467, \"30d\": -40.77366919654847, \"90d\": 5.623609991865262}"
+                    },
+                    {
+                        "metricKey": "available_supply",
+                        "unit": null,
+                        "defaultValue": 440973681.59220415,
+                        "changePercentages": "{\"1y\": 1.3386740211367991, \"7d\": 0.019509510899509756, \"24h\": 0.012456837484160608, \"30d\": 0.14471751945124128, \"90d\": 0.46147323675195084}"
+                    },
+                    {
+                        "metricKey": "average_staking_duration",
+                        "unit": null,
+                        "defaultValue": 18489142.488178752,
+                        "changePercentages": "{\"1y\": -8.357415513184261, \"7d\": 1.0638708061779094, \"24h\": -1.2621369415375385, \"30d\": -2.395399009702296, \"90d\": -4.215084365922936}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": "",
+                        "defaultValue": 14.690675708151382,
+                        "changePercentages": "{\"1y\": 24310.795135765737, \"7d\": -0.012985800185580577, \"24h\": -2.3409014462984072, \"30d\": 1.8766893859665106, \"90d\": -0.8693164076584994}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 17853.75362225006,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -57.641883861609976, \"24h\": -49.05070444136927, \"30d\": -22.740021437249577, \"90d\": -37.17036137243287}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 85.71560876835336,
+                        "changePercentages": "{\"1y\": 10.92764823986899, \"7d\": -0.0018647861919817192, \"24h\": 0.0017571900232803246, \"30d\": 0.03323483616143037, \"90d\": 2.577770070458072}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 377983275.684978,
+                        "changePercentages": "{\"1y\": 15.729051890274242, \"7d\": 0.01764436089685599, \"24h\": 0.014214246397756206, \"30d\": 0.1780004522431601, \"90d\": 3.0511390261901927}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 760635738.0284317,
+                        "changePercentages": "{\"1y\": 86.69140570102692, \"7d\": 57.44454531348035, \"24h\": 19.53275582907533, \"30d\": -78.4484428688573, \"90d\": 31.971303920675542}"
+                    }
+                ]
+            },
+            {
+                "id": "5dca903b67efd500087f43df",
+                "name": "Celo",
+                "slug": "celo",
+                "symbol": "CELO",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 108,
+                        "changePercentages": "{\"1y\": 6.9306930693069315, \"7d\": 0, \"24h\": 0, \"30d\": 0.9345794392523363, \"90d\": 3.8461538461538463}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 13455429.224809932,
+                        "changePercentages": "{\"1y\": 1879.6924074514645, \"7d\": 9.5357135939641, \"24h\": -6.920616376342825, \"30d\": 83.48129313903534, \"90d\": 111.68081697900662}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0.055263020833333336,
+                        "changePercentages": "{\"1y\": 9.12982188664633, \"7d\": 1.2761530238240613, \"24h\": 0, \"30d\": 1.2761530238240613, \"90d\": -2.2237825139738545}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 21.150313216118295,
+                        "changePercentages": "{\"1y\": -98.85214272458744, \"7d\": -4.732607475168952, \"24h\": 2.2738860435715913, \"30d\": -88.39532071332346, \"90d\": -97.11215953610986}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 57.01235107608308,
+                        "changePercentages": "{\"1y\": 4.397731881438995, \"7d\": 0.043818853041142275, \"24h\": 0.00685221039381099, \"30d\": 0.25586348944814663, \"90d\": 0.8376075764889218}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 570123510.7608308,
+                        "changePercentages": "{\"1y\": 4.397731881438995, \"7d\": 0.04381885304112706, \"24h\": 0.006852210393803593, \"30d\": 0.25586348944814796, \"90d\": 0.8376075764889066}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 45361925.22305765,
+                        "changePercentages": "{\"1y\": 129.90330166325288, \"7d\": 121.50242449422475, \"24h\": 158.86013563201845, \"30d\": -3.93217598462082, \"90d\": 169.65161013554277}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": "USD",
+                        "defaultValue": 11348.200555943491,
+                        "changePercentages": "{\"1y\": -97.00324129112131, \"7d\": 17.68324958863986, \"24h\": -2.3749269591201383, \"30d\": -75.70574659733839, \"90d\": -92.78968919578749}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 1.6055035516674712,
+                        "changePercentages": "{\"1y\": 624.4801177874423, \"7d\": -12.11188432555573, \"24h\": -2.494946026659135, \"30d\": -12.79939583334524, \"90d\": -16.137107562254304}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 498347811.373596,
+                        "changePercentages": "{\"1y\": 48.11188124777423, \"7d\": -18.91419294990724, \"24h\": -14.638183593749988, \"30d\": -38.87377622377622, \"90d\": 10.069607960833716}"
+                    }
+                ]
+            },
+            {
+                "id": "5e04fdb0cfd82b00079c6bfc",
+                "name": "Fantom",
+                "slug": "fantom",
+                "symbol": "FTM",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 58,
+                        "changePercentages": "{\"1y\": 114.81481481481481, \"7d\": 222.22222222222223, \"24h\": 0, \"30d\": 163.63636363636365, \"90d\": 163.63636363636365}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 86586034.66847526,
+                        "changePercentages": "{\"1y\": -3.3044152297304863, \"7d\": -3.3044152297304863, \"24h\": -0.0471547527589136, \"30d\": -3.3044152297304863, \"90d\": -3.3044152297304863}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 57940084.13082624,
+                        "changePercentages": "{\"1y\": 401.33439649050285, \"7d\": 194.09213634644368, \"24h\": 0.01876093517976322, \"30d\": 163.65704662680955, \"90d\": 688.3996483724868}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 14.999999988320667,
+                        "changePercentages": "{\"1y\": 9899.999992213778, \"7d\": 9899.999992213778, \"24h\": -0.00000000000911863178268709, \"30d\": 9899.999992213778, \"90d\": 9899.999992213778}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "FTM",
+                        "defaultValue": 9182.854862923281,
+                        "changePercentages": "{\"1y\": -72.47240332638161, \"7d\": -1.42565259472702, \"24h\": 0.5540244783915803, \"30d\": 35.8125740863934, \"90d\": 43.24698978347162}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 0.05480412087912086,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 2803634835.52659,
+                        "changePercentages": "{\"1y\": 0.6323715334313268, \"7d\": -1.3865309350924564, \"24h\": 0, \"30d\": -1.2772183392029182, \"90d\": -0.7578353237888729}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 274253270.85018057,
+                        "changePercentages": "{\"1y\": -3.294663332909541, \"7d\": -12.306251598964447, \"24h\": 26.606733764187023, \"30d\": -76.646327065782, \"90d\": 225.42960363526464}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 2803634835.52659,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5e1c9f9bcfd82b00079d9f7f",
+                "name": "MultiversX",
+                "slug": "elrond",
+                "symbol": "eGLD",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 353,
+                        "changePercentages": "{\"1y\": -17.330210772833723, \"7d\": -1.9444444444444444, \"24h\": 0, \"30d\": -1.9444444444444444, \"90d\": -17.136150234741784}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 1297596.7322628794,
+                        "changePercentages": "{\"1y\": -2.1144465919706907, \"7d\": -0.8043813747811532, \"24h\": 0.03150142955971084, \"30d\": -0.5063199654476109, \"90d\": -2.312668762539064}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 52293148.31019404,
+                        "changePercentages": "{\"1y\": -11.578546232248627, \"7d\": -22.87124386269883, \"24h\": 4.735502925727627, \"30d\": -30.904785362873323, \"90d\": -22.488689724952234}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 10.872383461936193,
+                        "changePercentages": "{\"1y\": 9017.650231096906, \"7d\": 0.3513392298197057, \"24h\": -0.050055117519073336, \"30d\": -0.4692151198917758, \"90d\": -1.1028470026897237}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 99.98080111234302,
+                        "changePercentages": "{\"1y\": 0.0011652008934806154, \"7d\": 0.000020183446740394972, \"24h\": 0.000002885662030381553, \"30d\": 0.00008662608974502041, \"90d\": 0.0002625837484607235}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "eGLD",
+                        "defaultValue": 26829736.0,
+                        "changePercentages": "{\"1y\": 6.069106264302223, \"7d\": 0.10512820895500112, \"24h\": 0.01503036043341118, \"30d\": 0.4512036909497517, \"90d\": 1.3677029270656167}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 25429421.11150489,
+                        "changePercentages": "{\"1y\": -45.005564947179174, \"7d\": 9.8341365586762, \"24h\": 22.181217383982396, \"30d\": -59.70045542773528, \"90d\": -10.43963722323462}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 26829736.0,
+                        "changePercentages": "{\"1y\": 2.1436442347930487, \"7d\": 0.10512820895500112, \"24h\": 0.01503036043341118, \"30d\": 0.4512036909497517, \"90d\": 1.3677029270656167}"
+                    },
+                    {
+                        "metricKey": "formula_commission",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "formula_delegated_amount",
+                        "unit": null,
+                        "defaultValue": 1250,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5e27000a9d431a0009f71db1",
+                "name": "Kusama",
+                "slug": "kusama",
+                "symbol": "KSM",
+                "metrics": [
+                    {
+                        "metricKey": "active_set_validator_minimum",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 1000,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 903673.6892492168,
+                        "changePercentages": "{\"1y\": 14.752852276409905, \"7d\": 30.16208266918006, \"24h\": 0.03900297996946639, \"30d\": 30.48040486383926, \"90d\": 99.80127764094789}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 28031957.840510704,
+                        "changePercentages": "{\"1y\": -16.53146967332057, \"7d\": 1.092333610364681, \"24h\": -1.2031240866395247, \"30d\": -6.264424296519368, \"90d\": 56.31363511783617}"
+                    },
+                    {
+                        "metricKey": "annual_provisions",
+                        "unit": null,
+                        "defaultValue": 1127775.8982997648,
+                        "changePercentages": "{\"1y\": 28.412652470801632, \"7d\": 30.23359637751495, \"24h\": 0.04390825138579688, \"30d\": 30.538238451406265, \"90d\": 28.412652470801632}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 43.815058453237576,
+                        "changePercentages": "{\"1y\": 35339.41956267216, \"7d\": 1.0005578806895, \"24h\": -0.22482014388485924, \"30d\": 0.6051565957633936, \"90d\": 271.8143053163277}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 4.9759267445372295,
+                        "changePercentages": "{\"1y\": 5.440772212951826, \"7d\": -2.9347258437226538, \"24h\": -2.9167799215490886, \"30d\": 2.3291520181797822, \"90d\": 91.08973965697116}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 5.88,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 5.9008264462809885,
+                        "changePercentages": "{\"1y\": 0.35419126328211936, \"7d\": 0.20208824520040422, \"24h\": 0.002893044157488009, \"30d\": 0.2848140138778996, \"90d\": 0.03274204147705703}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 6,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5e563eda5a212700076c40ae",
+                "name": "Telos",
+                "slug": "telos",
+                "symbol": "TLOS",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 6271020.63936,
+                        "changePercentages": "{\"1y\": 95.2110586585137, \"7d\": -5.071635986291918, \"24h\": -1.9906006914433723, \"30d\": 111.51098007023748, \"90d\": 245.2890333835541}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 0.5,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 95.36194432936415,
+                        "changePercentages": "{\"1y\": 8.90025280022714, \"7d\": 0.00858375987729847, \"24h\": 0.0009091959330209661, \"30d\": 7.982683591156362, \"90d\": 8.22415310705516}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 411215177.6578,
+                        "changePercentages": "{\"1y\": 32.28011791050503, \"7d\": 0.18507237702348384, \"24h\": 0.019602954289507056, \"30d\": 8.845086458929918, \"90d\": 10.927592862874944}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 7372789.811734797,
+                        "changePercentages": "{\"1y\": 284.83144457761097, \"7d\": 23.38666812682534, \"24h\": 16.242745358483297, \"30d\": 141.5707366939861, \"90d\": 294.9950737876132}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 411215177.6578,
+                        "changePercentages": "{\"1y\": 32.28011791050503, \"7d\": 0.18507237702348384, \"24h\": 0.019602954289507056, \"30d\": 8.845086458929918, \"90d\": 10.927592862874944}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 123152777.48084624,
+                        "changePercentages": "{\"1y\": 117.3609814611913, \"7d\": -12.812921219108162, \"24h\": -5.608908191792121, \"30d\": -31.947909707736283, \"90d\": 42.405320625418405}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": -28714.7214211964,
+                        "changePercentages": "{\"1y\": -246.07128623384278, \"7d\": -219.19183791919372, \"24h\": -93.36281944842385, \"30d\": -260.2868183016935, \"90d\": 559.5195419913365}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": -50217.93606501633,
+                        "changePercentages": "{\"1y\": -91.7278678529275, \"7d\": -109.62284476056338, \"24h\": -35.10279605490322, \"30d\": -111.39380359589967, \"90d\": -134.49424027664742}"
+                    }
+                ]
+            },
+            {
+                "id": "5e7f921416a20400085172e7",
+                "name": "Chromia",
+                "slug": "chromia",
+                "symbol": "CHR",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 24120200.633338884,
+                        "changePercentages": "{\"1y\": -30.04404217114977, \"7d\": -3.983210425421915, \"24h\": -0.001787655357635218, \"30d\": 8.642505406903764, \"90d\": 7.096552880403646}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 7269659.629483907,
+                        "changePercentages": "{\"1y\": 44.86504314033621, \"7d\": -25.908925454573627, \"24h\": 1.4930299412999974, \"30d\": -2.0693544918562394, \"90d\": 37.100054631993956}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 6.885976497594894, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 812434439.326204,
+                        "changePercentages": "{\"1y\": 53.07315002394838, \"7d\": 0, \"24h\": 0, \"30d\": 1.8810323783701042, \"90d\": 3.174867487557711}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 16147867.442934118,
+                        "changePercentages": "{\"1y\": -16.689654044215523, \"7d\": -7.843846808457454, \"24h\": 31.30597728044889, \"30d\": -51.03955127018289, \"90d\": 32.751816643878996}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 812434439.326204,
+                        "changePercentages": "{\"1y\": 3.174867487557711, \"7d\": 0, \"24h\": 0, \"30d\": 1.8810323783701042, \"90d\": 3.174867487557711}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 9.22784621187597,
+                        "changePercentages": "{\"1y\": -14.843564937296543, \"7d\": -1.3171043873255188, \"24h\": -0.0005751502376816806, \"30d\": 0.7317908028102029, \"90d\": -0.9658756919315198}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 250433518.70313063,
+                        "changePercentages": "{\"1y\": 134.66019853175936, \"7d\": -21.447247275485836, \"24h\": 6.148369403405383, \"30d\": -6.33272846666222, \"90d\": 34.32171726884837}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": -1329.4045904892064,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -94.44742817461447, \"24h\": -165.3684921648198, \"30d\": -98.82319095423013, \"90d\": -99.76485054367627}"
+                    },
+                    {
+                        "metricKey": "page_views_12h",
+                        "unit": null,
+                        "defaultValue": 12,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -36.84210526315789, \"24h\": 0, \"30d\": 500, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5e83ab3f9f966a0008290da5",
+                "name": "0x",
+                "slug": "0x",
+                "symbol": "ZRX",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0.7122628225806451,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "ZRX",
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 84.74960548122635,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 847496054.8122635,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 53141780.21542732,
+                        "changePercentages": "{\"1y\": 165.93016692916925, \"7d\": 130.86695397956555, \"24h\": 160.60996260708185, \"30d\": -79.75196307440224, \"90d\": 356.2124857805157}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 460135270.5194962,
+                        "changePercentages": "{\"1y\": 93.8770940988162, \"7d\": -17.349918101164878, \"24h\": -14.588544370506712, \"30d\": -55.129338842975216, \"90d\": 56.756795773122924}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_7d",
+                        "unit": null,
+                        "defaultValue": -36115.37685869952,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "pageviews_trend_24h",
+                        "unit": null,
+                        "defaultValue": 75,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5ea986dee306ac0007dc73f2",
+                "name": "Aave",
+                "slug": "aave",
+                "symbol": "AAVE",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 132510.59070202574,
+                        "changePercentages": "{\"1y\": -52.3130714466795, \"7d\": 0.01711829644399934, \"24h\": -0.0007760817378924696, \"30d\": -0.8352102990280728, \"90d\": -30.505496685734407}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 11263400.209672188,
+                        "changePercentages": "{\"1y\": -38.42641763584623, \"7d\": -28.31220967031166, \"24h\": 0.5195604665595936, \"30d\": -26.958343807776313, \"90d\": -37.82725206070335}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 89.2234029898762,
+                        "changePercentages": "{\"1y\": 3.0206282588779243, \"7d\": 0.018752144082196116, \"24h\": 0.0015471612940188247, \"30d\": 0.5286629937421343, \"90d\": 1.2735413813914735}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 14275744.478380192,
+                        "changePercentages": "{\"1y\": 3.0206282588779247, \"7d\": 0.018752144082192574, \"24h\": 0.0015471612940109757, \"30d\": 0.528662993742126, \"90d\": 1.2735413813914718}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": null,
+                        "defaultValue": 104078566.01178221,
+                        "changePercentages": "{\"1y\": 55.67767257424323, \"7d\": -51.94511115746005, \"24h\": 2.618359803635621, \"30d\": -49.74803750759129, \"90d\": -26.58114748199526}"
+                    },
+                    {
+                        "metricKey": "ecosystem_reserve",
+                        "unit": null,
+                        "defaultValue": 862127.760809904,
+                        "changePercentages": "{\"1y\": -19.533690808831192, \"7d\": -0.15498619678436426, \"24h\": -0.012807677595550362, \"30d\": -4.172315481497887, \"90d\": -9.429741983393628}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 14275744.478380192,
+                        "changePercentages": "{\"1y\": 3.0206282588779247, \"7d\": 0.018752144082192574, \"24h\": 0.0015471612940109757, \"30d\": 0.528662993742126, \"90d\": 1.2735413813914718}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 1.8408847286248062,
+                        "changePercentages": "{\"1y\": 7236.028806474944, \"7d\": -0.018748628312385576, \"24h\": -0.0015471373572955856, \"30d\": -0.525882845746231, \"90d\": -7.669375207930809}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 1269015351.3397427,
+                        "changePercentages": "{\"1y\": 7.970018727152086, \"7d\": -26.702737118663617, \"24h\": 4.2247987840349195, \"30d\": -23.660355142447834, \"90d\": -9.358959695165593}"
+                    },
+                    {
+                        "metricKey": "market_cap",
+                        "unit": null,
+                        "defaultValue": 1197891941.1803303,
+                        "changePercentages": "{\"1y\": 25.290776493277633, \"7d\": -1.7847912364485974, \"24h\": -0.19528112103968065, \"30d\": 25.290776493277633, \"90d\": 25.290776493277633}"
+                    }
+                ]
+            },
+            {
+                "id": "5ea986e0f92c230007fce200",
+                "name": "Kyber Network",
+                "slug": "kyber-network",
+                "symbol": "KNC",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 618711.1052190036,
+                        "changePercentages": "{\"1y\": -28.219047522041794, \"7d\": 1.5324470063701392, \"24h\": -1.137556504738148, \"30d\": -0.17299136739717189, \"90d\": -1.1528070961630588}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 79.70558581817954,
+                        "changePercentages": "{\"1y\": 55.73556344823858, \"7d\": -0.05035738793046842, \"24h\": 0, \"30d\": -0.05219823456440548, \"90d\": 6.793055446102304}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 181672720.04658374,
+                        "changePercentages": "{\"1y\": 77.20260147518935, \"7d\": 0, \"24h\": 0, \"30d\": 0.0017202282246907073, \"90d\": 8.566466720916083}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 13767233.52819297,
+                        "changePercentages": "{\"1y\": 16.522427150031664, \"7d\": 0.12673389093586443, \"24h\": 0.3218036728831157, \"30d\": -52.39238370918282, \"90d\": 7.559584881555605}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": null,
+                        "defaultValue": 959627.1261857739,
+                        "changePercentages": "{\"1y\": -99.99044216968622, \"7d\": -0.00019461690511698767, \"24h\": -0.000022321945418016706, \"30d\": -0.0004956999861501633, \"90d\": -0.03291139615501538}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 98084206.13995153,
+                        "changePercentages": "{\"1y\": -24.844084912995186, \"7d\": -21.97972882158637, \"24h\": 4.808246455791894, \"30d\": -23.81783969283074, \"90d\": -0.3805161082555235}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    }
+                ]
+            },
+            {
+                "id": "5f01d33f1165d300072d7b8b",
+                "name": "Polygon",
+                "slug": "matic-network",
+                "symbol": "MATIC",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 105,
+                        "changePercentages": "{\"1y\": 5, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 213429589.89266756,
+                        "changePercentages": "{\"1y\": 18.57061357947233, \"7d\": 30.230706057781774, \"24h\": 8.609567251224354, \"30d\": 5.72721375713453, \"90d\": 11.519656133675635}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 144261968.68902156,
+                        "changePercentages": "{\"1y\": -1.9368518567167075, \"7d\": 1.075713873141467, \"24h\": 7.202610602822632, \"30d\": -24.683741280858673, \"90d\": -5.003471336285134}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 3.7584148284827537,
+                        "changePercentages": "{\"1y\": 5204.214475681306, \"7d\": -0.9913223473952636, \"24h\": 0.11827714179051686, \"30d\": -2.1745947072764036, \"90d\": -7.440978090407323}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "MATIC",
+                        "defaultValue": 53359.588116633546,
+                        "changePercentages": "{\"1y\": 26.536854906549184, \"7d\": 2.0115592097429613, \"24h\": 0.685119397098572, \"30d\": 27.595040194136278, \"90d\": 36.69989126750794}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 2067.2708147661237,
+                        "changePercentages": null
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 99.08,
+                        "changePercentages": "{\"1y\": 7.4682275686453785, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 2.8366732010624256}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 9908000000.0,
+                        "changePercentages": "{\"1y\": 7.46822756864538, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 2.836673201062433}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 371448257.05102307,
+                        "changePercentages": "{\"1y\": 5.1725288872555115, \"7d\": 13.209503384124904, \"24h\": 27.34798015243377, \"30d\": -51.051227626287755, \"90d\": -13.10407503571896}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 9908000000.0,
+                        "changePercentages": "{\"1y\": 3.373135915215758, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 2.836673201062433}"
+                    }
+                ]
+            },
+            {
+                "id": "5f0451c22d373700079534e6",
+                "name": "Band Protocol",
+                "slug": "band-protocol",
+                "symbol": "BAND",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 97,
+                        "changePercentages": "{\"1y\": 40.57971014492754, \"7d\": -2.0202020202020203, \"24h\": -1.0204081632653061, \"30d\": -3, \"90d\": -3}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 12412134.671030745,
+                        "changePercentages": "{\"1y\": 3.8389868808925796, \"7d\": 0.38467905581946904, \"24h\": 0.009607766986485099, \"30d\": 0.8887434295373667, \"90d\": 3.8389868808925796}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 17997595.272994578,
+                        "changePercentages": "{\"1y\": -14.535279150259091, \"7d\": -31.98234363040271, \"24h\": 2.122486804317186, \"30d\": -24.593464962459194, \"90d\": -6.480415542053292}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 8.37338424675222,
+                        "changePercentages": "{\"1y\": -6.301457546421848, \"7d\": -0.0918048209025737, \"24h\": -0.020694831667062537, \"30d\": -0.1325090880235634, \"90d\": -1.205430771686598}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 28047820.0,
+                        "changePercentages": "{\"1y\": 11.026079064391858, \"7d\": 0.8129534262228869, \"24h\": 0.11376734828917258, \"30d\": 3.541081188017494, \"90d\": 11.026079064391858}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "BAND",
+                        "defaultValue": 1.0852881755034711,
+                        "changePercentages": "{\"1y\": 10.15817794736521, \"7d\": 0.3221714112751381, \"24h\": 0.04548270894911057, \"30d\": 1.3374307825427485, \"90d\": 3.6001102965934497}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 11420604.23870983,
+                        "changePercentages": "{\"1y\": -1.9124302406417246, \"7d\": -3.6088109882454167, \"24h\": -3.745049934543231, \"30d\": -3.3739599694416116, \"90d\": -1.9124302406417246}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 2.761325000047684,
+                        "changePercentages": "{\"1y\": 1.9497172224100887, \"7d\": 3.7439220588982796, \"24h\": 3.890760872034613, \"30d\": 3.491770922594558, \"90d\": 1.9497172224100887}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 2.7035723673546808,
+                        "changePercentages": "{\"1y\": 1.4108000050051368, \"7d\": -0.18166064901114704, \"24h\": -0.043911834968159015, \"30d\": -0.021446846590282835, \"90d\": 0.8166153707561494}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5f0451d1aff7a5000815c172",
+                "name": "e-Money",
+                "slug": "e-money",
+                "symbol": "NGM",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 60,
+                        "changePercentages": "{\"1y\": -36.17021276595745, \"7d\": 1.694915254237288, \"24h\": 0, \"30d\": -3.225806451612903, \"90d\": -7.6923076923076925}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 219514.74264795543,
+                        "changePercentages": "{\"1y\": -44.65417695288221, \"7d\": -4.1099696633556615, \"24h\": 0.6725495764281606, \"30d\": 6.59132626444204, \"90d\": 7.961514081783812}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 0.07416666666666667,
+                        "changePercentages": "{\"1y\": 10.386083650587256, \"7d\": 2.7190923317683966, \"24h\": 0, \"30d\": 4.270597127739983, \"90d\": 8.090433482810187}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "sec",
+                        "defaultValue": 35.548322011946574,
+                        "changePercentages": "{\"1y\": -8.462574640054124, \"7d\": -0.08858694515604171, \"24h\": -0.006482489837243362, \"30d\": -0.4178689494997855, \"90d\": -1.3653362425621636}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "sec",
+                        "defaultValue": 6,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 57.50247833651244,
+                        "changePercentages": "{\"1y\": -13.548568008848166, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 1.7855690566173956}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 79132585.454344,
+                        "changePercentages": "{\"1y\": -5.879484086507839, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 2.7460875205140898}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 5224.714961948996,
+                        "changePercentages": "{\"1y\": -79.01013008630285, \"7d\": -43.12951301149586, \"24h\": -1.408552602586888, \"30d\": -19.338037684245965, \"90d\": -38.17763962231871}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 10,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 1091958.4599430384,
+                        "changePercentages": "{\"1y\": -52.34672480206789, \"7d\": -9.34991768698455, \"24h\": 4.0657678216709385, \"30d\": -11.70994441202665, \"90d\": -38.311771938610846}"
+                    }
+                ]
+            },
+            {
+                "id": "5f253f23a3a32b0007819c20",
+                "name": "yearn.finance",
+                "slug": "yearn-finance",
+                "symbol": "YFI",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 2389922.080513106,
+                        "changePercentages": "{\"1y\": -0.18440326663301404, \"7d\": 0.8428311553825625, \"24h\": 0.2859884934268466, \"30d\": 0.16685302274370326, \"90d\": -0.09037086018275381}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 29082092.693106093,
+                        "changePercentages": "{\"1y\": 0.2207943156681905, \"7d\": -7.1992643101994656, \"24h\": 31.91540324554779, \"30d\": -72.8012297030941, \"90d\": -25.703857737980822}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": "USD",
+                        "defaultValue": 2536452319.574616,
+                        "changePercentages": "{\"1y\": 1808.8022724669618, \"7d\": -0.000000000000018799374012403845, \"24h\": 0.0000000004785944636100678, \"30d\": 0.594665299303433, \"90d\": 0.8378364291522382}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 231738116.12773958,
+                        "changePercentages": "{\"1y\": -21.950331300076467, \"7d\": -15.92999326545636, \"24h\": 4.401748762711629, \"30d\": -16.30942332831062, \"90d\": -14.592433164425852}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": -3092.913682000049,
+                        "changePercentages": "{\"1y\": 27.75121898221038, \"7d\": 7.416924798917146, \"24h\": -0.12217778513553795, \"30d\": 1554.9560934800347, \"90d\": 17.54019887989381}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_365d",
+                        "unit": null,
+                        "defaultValue": -6447036.596407094,
+                        "changePercentages": "{\"1y\": 27.930480903866318, \"7d\": 7.416924798917149, \"24h\": -0.12217778513554649, \"30d\": 34.224714365603496, \"90d\": 18.87533235241257}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_7d",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -100, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_90d",
+                        "unit": null,
+                        "defaultValue": -3959.5072420000083,
+                        "changePercentages": "{\"1y\": -99.92110795089334, \"7d\": 7.41692479891714, \"24h\": -0.12217778513554738, \"30d\": 32.436650337275694, \"90d\": -88.58210781771005}"
+                    }
+                ]
+            },
+            {
+                "id": "5f2ad1463ff3cb0007f68ed0",
+                "name": "Thorchain",
+                "slug": "thorchain",
+                "symbol": "RUNE",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 92,
+                        "changePercentages": "{\"1y\": 130, \"7d\": 4.545454545454546, \"24h\": 0, \"30d\": -1.0752688172043012, \"90d\": 1.098901098901099}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "RUNE",
+                        "defaultValue": 2.42466706,
+                        "changePercentages": "{\"1y\": -12.325535316522178, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 5.73,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 60.1401122,
+                        "changePercentages": "{\"1y\": -0.01815893564646073, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 300700561.0,
+                        "changePercentages": "{\"1y\": 1.4024222494190304, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 483628067.7038028,
+                        "changePercentages": "{\"1y\": 803.7869501802536, \"7d\": 52.07220177356293, \"24h\": 62.7118044759483, \"30d\": -36.02100627992999, \"90d\": -8.070670479683267}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": "USD",
+                        "defaultValue": 15884184.158200715,
+                        "changePercentages": "{\"1y\": -99.99307273685595, \"7d\": -28.834355828220858, \"24h\": 4.504504504504492, \"30d\": -19.999999999999996, \"90d\": -56.62556826789008}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": "%",
+                        "defaultValue": 4.437821798519701,
+                        "changePercentages": "{\"1y\": 74.5126640517641, \"7d\": -0.4930146251513383, \"24h\": -0.060372236074893115, \"30d\": -2.079681043169766, \"90d\": -4.4315691690350745}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 1677909130.38,
+                        "changePercentages": "{\"1y\": 241.81962664312374, \"7d\": -24.594594594594593, \"24h\": -22.284122562674092, \"30d\": -47.10900473933649, \"90d\": 20.779220779220793}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_7d",
+                        "unit": null,
+                        "defaultValue": 1030472.8300404178,
+                        "changePercentages": "{\"1y\": -88.47078023049065, \"7d\": -146.39774841315682, \"24h\": -60.652463573429024, \"30d\": -40.549519145039184, \"90d\": -87.57971859857675}"
+                    }
+                ]
+            },
+            {
+                "id": "5f368e70611bd80007462e1d",
+                "name": "Curve DAO Token",
+                "slug": "curve-dao-token",
+                "symbol": "CRV",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 8312921.713485537,
+                        "changePercentages": "{\"1y\": 141.574246902931, \"7d\": 25.104314267151118, \"24h\": 10.765256530009221, \"30d\": 86.74584055949146, \"90d\": 27.01740181060139}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "CRV",
+                        "defaultValue": 104130.34156915727,
+                        "changePercentages": "{\"1y\": 155.62104644366164, \"7d\": 14.444128845331191, \"24h\": 2.1950564091079774, \"30d\": 4.984901175691806, \"90d\": -6.281346794643371}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 55.15801574458937,
+                        "changePercentages": "{\"1y\": 41.41909414860135, \"7d\": 0.6987028962946976, \"24h\": 0.02513507261738162, \"30d\": 3.362905171634176, \"90d\": 20.773002806077514}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 1152473022.0,
+                        "changePercentages": "{\"1y\": 54.28826021902798, \"7d\": 0.8554947971497187, \"24h\": 0.04988373922682342, \"30d\": 3.9950542782835656, \"90d\": 23.07889131732756}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 63682777.860093534,
+                        "changePercentages": "{\"1y\": -21.345926699678806, \"7d\": 45.23080546582586, \"24h\": 7.802097618309792, \"30d\": -55.73522704267078, \"90d\": 23.76958994998593}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": null,
+                        "defaultValue": 41816910.246098764,
+                        "changePercentages": "{\"1y\": 290.21248833112185, \"7d\": 49.7163702338872, \"24h\": 0.0038450246907480545, \"30d\": 212.0128900101267, \"90d\": 80.11883414038591}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 512557397.31683314,
+                        "changePercentages": "{\"1y\": -40.69772352768405, \"7d\": -28.07794520339799, \"24h\": 4.765871667434682, \"30d\": -27.900210292310717, \"90d\": -6.3278213334666}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": 43.208400000000005,
+                        "changePercentages": "{\"1y\": -26.9694142463086, \"7d\": -28.419894738062762, \"24h\": 5.2136371273495, \"30d\": -30.604745584139835, \"90d\": -26.9694142463086}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": -26.101443721865415,
+                        "changePercentages": "{\"1y\": -100.01173311067375, \"7d\": -226.4628108304803, \"24h\": -110.53636444597477, \"30d\": -100.11357543963213, \"90d\": -100.09465062282132}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": -11833021.5939229,
+                        "changePercentages": "{\"1y\": -409.75892152813014, \"7d\": 58.61780984287578, \"24h\": 8.761051180407902, \"30d\": 517.301173713302, \"90d\": -1159.5912794444396}"
+                    }
+                ]
+            },
+            {
+                "id": "5f3fd4b22371d100079dacd6",
+                "name": "Persistence",
+                "slug": "persistence",
+                "symbol": "XPRT",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 6.382978723404255, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 22806555.323958606,
+                        "changePercentages": "{\"1y\": 3.4045817478447233, \"7d\": 0.2587061226502044, \"24h\": 0.034414483471344945, \"30d\": 1.135762197146566, \"90d\": 3.135629075742241}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 6798520.109295441,
+                        "changePercentages": "{\"1y\": -20.613906934646955, \"7d\": -2.3415231033636634, \"24h\": 1.7499591749737753, \"30d\": -16.14006750348839, \"90d\": -19.090337570376}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 6.049891446992216,
+                        "changePercentages": "{\"1y\": 25.097233636272932, \"7d\": 0.13228943273025714, \"24h\": -0.04160893675990007, \"30d\": 0.30401721900978607, \"90d\": 0.5717494183048533}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 16292117.0,
+                        "changePercentages": "{\"1y\": 8.762203950231969, \"7d\": 0.6214683612850501, \"24h\": 0.08103114419219057, \"30d\": 2.7220258665721584, \"90d\": 8.64059991159178}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "XPRT",
+                        "defaultValue": 4.824979017164517,
+                        "changePercentages": "{\"1y\": -28.90370584069231, \"7d\": 0.23939740654836134, \"24h\": 0.03135435456770212, \"30d\": 1.0311838234387347, \"90d\": 3.1272962134694446}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5230339.952307044,
+                        "changePercentages": "{\"1y\": -0.18376621778456748, \"7d\": -0.34920347158160586, \"24h\": -0.3746287351121273, \"30d\": 0.37175948069329395, \"90d\": 0.24228261049913125}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 6.029435999870301,
+                        "changePercentages": "{\"1y\": 0.18410453973400148, \"7d\": 0.3504271754436286, \"24h\": 0.37603747956537253, \"30d\": -0.37038254845458096, \"90d\": -0.24169702064800527}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 5.980741203414556,
+                        "changePercentages": "{\"1y\": 1.4667564391308232, \"7d\": -0.13011701708719028, \"24h\": -0.020790803759518705, \"30d\": -0.344304669577188, \"90d\": -0.4917378267121718}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": "s",
+                        "defaultValue": 6,
+                        "changePercentages": null
+                    }
+                ]
+            },
+            {
+                "id": "5f3fd5832371d100079dacd7",
+                "name": "The Graph",
+                "slug": "the-graph",
+                "symbol": "GRT",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 771,
+                        "changePercentages": "{\"1y\": 1.1811023622047243, \"7d\": 0.12987012987012986, \"24h\": 0, \"30d\": 0.26007802340702213, \"90d\": 1.1811023622047243}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 315295449.75,
+                        "changePercentages": "{\"1y\": 0.5339328368694751, \"7d\": 0.055936232694731795, \"24h\": 0.32249018508131216, \"30d\": 0.5904681568958169, \"90d\": 0.5339328368694751}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 78257276.51429926,
+                        "changePercentages": "{\"1y\": 31.97517965406802, \"7d\": -20.27626205602021, \"24h\": 2.630194423455993, \"30d\": -35.32907846462722, \"90d\": 62.77437739753237}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 24.602662603963793,
+                        "changePercentages": "{\"1y\": 10.415145358312007, \"7d\": 3.7377538568409703, \"24h\": 1.919707815271809, \"30d\": -2.2782113798260095, \"90d\": 10.415145358312007}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 7.631311020023064e-08,
+                        "changePercentages": "{\"1y\": -92.17205715917235, \"7d\": -7.401473627721241, \"24h\": -1.073711086617344, \"30d\": -33.4198260045101, \"90d\": -73.35327218975087}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 12.075471698113208,
+                        "changePercentages": "{\"1y\": -1.2867458653622101, \"7d\": -0.05590496156532613, \"24h\": -0.3214535290006858, \"30d\": -0.5870020964360454, \"90d\": -0.5310971348707111}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 86.77135065171429,
+                        "changePercentages": "{\"1y\": 3.5814577455841627, \"7d\": 0.07257194916191759, \"24h\": 0.25281162307621374, \"30d\": 0.0620720056381733, \"90d\": 0.4563636850967821}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 9482385683.131256,
+                        "changePercentages": "{\"1y\": 6.445925058263874, \"7d\": 0.26758516172615104, \"24h\": 0.26442079334629837, \"30d\": 0.27714004045337354, \"90d\": 0.9653731709288058}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 88231589.39870153,
+                        "changePercentages": "{\"1y\": -36.427399457188564, \"7d\": -6.713738506883295, \"24h\": -1.502785549752744, \"30d\": -70.19913190416645, \"90d\": 14.188309271448185}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 9482385683.131256,
+                        "changePercentages": "{\"1y\": 0.9653731709288058, \"7d\": 0.26758516172615104, \"24h\": 0.26442079334629837, \"30d\": 0.27714004045337354, \"90d\": 0.9653731709288058}"
+                    }
+                ]
+            },
+            {
+                "id": "5f3fd6205b8f8400073ca00d",
+                "name": "Akash",
+                "slug": "akash",
+                "symbol": "AKT",
+                "metrics": [
+                    {
+                        "metricKey": "absolute_staked_tokens_average_30d",
+                        "unit": null,
+                        "defaultValue": 254525.50971778258,
+                        "changePercentages": "{\"1y\": 1562.6938805452455, \"7d\": -9.539629563603864, \"24h\": -0.7988764769287828, \"30d\": -50.67544332229059, \"90d\": -4.197416050791545}"
+                    },
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 1.0101010101010102, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 22907170.047498982,
+                        "changePercentages": "{\"1y\": 28.245416329111507, \"7d\": 2.005056980026487, \"24h\": 0.25874313231085333, \"30d\": 9.43407413980774, \"90d\": 26.028979612031485}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 87963532.9823961,
+                        "changePercentages": "{\"1y\": 597.0474927063451, \"7d\": -3.522310639580846, \"24h\": 8.755246787591432, \"30d\": -21.745466536897254, \"90d\": 86.13510835007726}"
+                    },
+                    {
+                        "metricKey": "avg_change_30d",
+                        "unit": null,
+                        "defaultValue": -56380.12997413812,
+                        "changePercentages": "{\"1y\": 0, \"7d\": -57.74482877351037, \"24h\": 1.7763362817597192, \"30d\": -11.645361620934667, \"90d\": 878.4090569786829}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 5.648133796442005,
+                        "changePercentages": "{\"1y\": 25.50887300715019, \"7d\": -0.2649460642802957, \"24h\": -0.0048252594619362455, \"30d\": -0.3755084361618992, \"90d\": -0.563645465504543}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 58.49684182065279,
+                        "changePercentages": "{\"1y\": -69.91243957841435, \"7d\": -13.725924458850985, \"24h\": -1.7273448887763985, \"30d\": -33.543033415295106, \"90d\": -2.92931389749482}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "",
+                        "defaultValue": 7.256557261906389,
+                        "changePercentages": "{\"1y\": 117.2188349069559, \"7d\": 2.113601558906197, \"24h\": 0.2831040789359315, \"30d\": 9.69442660472418, \"90d\": 25.80500653045569}"
+                    },
+                    {
+                        "metricKey": "blocks_per_year",
+                        "unit": null,
+                        "defaultValue": 5216221.960599305,
+                        "changePercentages": "{\"1y\": 0.2885507158274449, \"7d\": -0.6783437330097932, \"24h\": 0.021238040904196342, \"30d\": -1.2860097756099338, \"90d\": -0.9057330786838349}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 6.045755000114441,
+                        "changePercentages": "{\"1y\": -0.2877204962758681, \"7d\": 0.6829766623970768, \"24h\": -0.021233531318127906, \"30d\": 1.3027634408118423, \"90d\": 0.9140115839426114}"
+                    }
+                ]
+            },
+            {
+                "id": "5f4a3e04cb00770007c6ccb2",
+                "name": "Stafi Protocol",
+                "slug": "stafi-protocol",
+                "symbol": "FIS",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 160,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 10915022.43551269,
+                        "changePercentages": "{\"1y\": -3.6661949897365353, \"7d\": 0.3008750096149239, \"24h\": 0.02037547621727491, \"30d\": 0.8142643409375077, \"90d\": -3.6661949897365353}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 6324797.070437312,
+                        "changePercentages": "{\"1y\": 97.92973222775301, \"7d\": -22.068081070285455, \"24h\": 7.8038371505166415, \"30d\": -2.5386816554898552, \"90d\": 121.61917649648548}"
+                    },
+                    {
+                        "metricKey": "annual_provisions",
+                        "unit": null,
+                        "defaultValue": 10914741.974307943,
+                        "changePercentages": "{\"1y\": -3.6667222828163135, \"7d\": 0.30055605888056575, \"24h\": 0.020391255569947673, \"30d\": 0.8142170336131427, \"90d\": -3.6667222828163135}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 12.296747971951211,
+                        "changePercentages": "{\"1y\": 9330.276316008858, \"7d\": -0.24161417116863815, \"24h\": -0.000000000000014445744870530864, \"30d\": 0.000000000000014445744870530867, \"90d\": 9848.023699717894}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 0.7683868623195431,
+                        "changePercentages": "{\"1y\": 22.409167675095045, \"7d\": 14.466634274222145, \"24h\": -0.5899641154009405, \"30d\": 2.689576832074188, \"90d\": 22.409167675095045}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 5.88,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": null,
+                        "defaultValue": 5.9390163934426585,
+                        "changePercentages": "{\"1y\": 1.0036801605894325, \"7d\": 0.5394403550501152, \"24h\": 0.24904532624935777, \"30d\": 0.8783081136136626, \"90d\": 1.0036801605894325}"
+                    },
+                    {
+                        "metricKey": "block_time_target",
+                        "unit": null,
+                        "defaultValue": 6,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 100,
+                        "changePercentages": "{\"1y\": 128.0896833955922, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 145.49919516227007}"
+                    }
+                ]
+            },
+            {
+                "id": "5fe3535f1c7ec600079fc13b",
+                "name": "Origin Protocol",
+                "slug": "origin-protocol",
+                "symbol": "OGN",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 215110.36195737575,
+                        "changePercentages": "{\"1y\": -34.99608868280182, \"7d\": 20.394128774273877, \"24h\": -1.398612369443897, \"30d\": 52.25166846331801, \"90d\": 79.14221786125172}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 50.272825899999994,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 502728259.0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 31404180.49376516,
+                        "changePercentages": "{\"1y\": 236.8760027992405, \"7d\": -53.37775346586512, \"24h\": 91.7217830327019, \"30d\": -28.67091364658722, \"90d\": 93.66628456884978}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 0.08510028927713295,
+                        "changePercentages": "{\"1y\": -71.21998180965046, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -2.4975683781172826}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 87303789.45794,
+                        "changePercentages": "{\"1y\": 38.49371774112797, \"7d\": -27.355933337795328, \"24h\": -17.10067165354707, \"30d\": -28.662095936048114, \"90d\": 2.459113114483268}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -100}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": -100, \"90d\": -100}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_365d",
+                        "unit": null,
+                        "defaultValue": -2100085.5165450242,
+                        "changePercentages": "{\"1y\": -22.902228248209674, \"7d\": 13.046206435801452, \"24h\": -1.8342759953583487, \"30d\": 23.511618850705243, \"90d\": -7.987967545039938}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_7d",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": -100, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -100}"
+                    }
+                ]
+            },
+            {
+                "id": "601d7c9d3cb0e00007487917",
+                "name": "Sushi",
+                "slug": "sushi",
+                "symbol": "SUSHI",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 2807472.2671999414,
+                        "changePercentages": "{\"1y\": -66.17274586146922, \"7d\": 24.166374763291863, \"24h\": 1.398429493537063, \"30d\": 125.40640176093052, \"90d\": 7.503058787202564}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": "SUSHI",
+                        "defaultValue": 22734.10298039211,
+                        "changePercentages": "{\"1y\": -80.95136849068135, \"7d\": 15.60317650305872, \"24h\": 2.397428798892104, \"30d\": 31.38338186411606, \"90d\": -35.2152428508118}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 94.40420555264286,
+                        "changePercentages": "{\"1y\": -0.047710051625292904, \"7d\": -0.15354488227509758, \"24h\": -0.0000004315591608732896, \"30d\": -0.14427998292370922, \"90d\": -0.12088776811344755}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": "SUSHI",
+                        "defaultValue": 236203138.01644206,
+                        "changePercentages": "{\"1y\": 0.8268085119138966, \"7d\": -0.15354488227030846, \"24h\": -0.0000004315587679547226, \"30d\": -0.1442799829013574, \"90d\": -0.12088776805038229}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 112565090.63758926,
+                        "changePercentages": "{\"1y\": 215.4927687997825, \"7d\": 225.60226381897485, \"24h\": 93.78565013155301, \"30d\": 1.0077143991459423, \"90d\": 335.52056739896335}"
+                    },
+                    {
+                        "metricKey": "fee_revenue",
+                        "unit": "USD",
+                        "defaultValue": 16844833.60332153,
+                        "changePercentages": "{\"1y\": -66.0800684527045, \"7d\": 23.51286752695219, \"24h\": 0.9062041076460822, \"30d\": 126.02395354589456, \"90d\": 7.797587715452478}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 264547514.57841513,
+                        "changePercentages": "{\"1y\": 19.74578114859278, \"7d\": -28.6624203821656, \"24h\": -18.84057971014491, \"30d\": -44.55445544554455, \"90d\": 1.6792667093039209}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_24h",
+                        "unit": null,
+                        "defaultValue": -37091.53273805316,
+                        "changePercentages": "{\"1y\": -54.45738047576161, \"7d\": -38.33491380094118, \"24h\": -33.53686450814104, \"30d\": -119.11987416765022, \"90d\": -3525.830096349813}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_30d",
+                        "unit": null,
+                        "defaultValue": 1474367.5953404135,
+                        "changePercentages": "{\"1y\": -127.37446332561306, \"7d\": 15.51158738024713, \"24h\": -1.490276404057064, \"30d\": -166.3517108789665, \"90d\": -237.4752243670914}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow_365d",
+                        "unit": null,
+                        "defaultValue": -39935823.862633534,
+                        "changePercentages": "{\"1y\": 5.344484268696625, \"7d\": 6.200035035180167, \"24h\": -0.9341788200501173, \"30d\": 0.5879001758398013, \"90d\": 0.161493607895294}"
+                    }
+                ]
+            },
+            {
+                "id": "6023f7b7e7f14c0007d0c72a",
+                "name": "Cartesi",
+                "slug": "cartesi",
+                "symbol": "CTSI",
+                "metrics": [
+                    {
+                        "metricKey": "active_validators",
+                        "unit": null,
+                        "defaultValue": 24,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 22780327.49852939,
+                        "changePercentages": "{\"1y\": -0.2634255946423335, \"7d\": -0.9430562117544703, \"24h\": 0.11094045935273632, \"30d\": 1.3054912086803765, \"90d\": -0.2634255946423335}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 4376898.223929944,
+                        "changePercentages": "{\"1y\": -51.96637741670074, \"7d\": -29.784339360076157, \"24h\": 3.623576651246828, \"30d\": -32.221361353252185, \"90d\": -49.34500287237869}"
+                    },
+                    {
+                        "metricKey": "benchmark_commission",
+                        "unit": null,
+                        "defaultValue": 6.610070941234654,
+                        "changePercentages": "{\"1y\": 18147.262777735414, \"7d\": 0.08031394479332452, \"24h\": -0.13156581682568824, \"30d\": -1.468423457293859, \"90d\": -0.9233960475058259}"
+                    },
+                    {
+                        "metricKey": "block_height",
+                        "unit": null,
+                        "defaultValue": 39089,
+                        "changePercentages": "{\"1y\": 3.8965526406719295, \"7d\": 0.6255470318694332, \"24h\": 0.08449405981155264, \"30d\": 2.8982836685269033, \"90d\": 3.8965526406719295}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": null,
+                        "defaultValue": 2900,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": null,
+                        "defaultValue": 0.00021274380040424754,
+                        "changePercentages": "{\"1y\": -49.33500144024913, \"7d\": -35.445843813912184, \"24h\": -66.99278873001658, \"30d\": -70.10707430929753, \"90d\": -49.33500144024913}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 78.53502388305247,
+                        "changePercentages": "{\"1y\": 12.383216412732247, \"7d\": 0.09289270162007483, \"24h\": 0.01255648445979407, \"30d\": 0.419310944176203, \"90d\": 0.9084084781076602}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 785350238.8305247,
+                        "changePercentages": "{\"1y\": 12.38321641273224, \"7d\": 0.09289270162006663, \"24h\": 0.012556484459789855, \"30d\": 0.4193109441762052, \"90d\": 0.9084084781076492}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 8675272.60210725,
+                        "changePercentages": "{\"1y\": -91.59622028255802, \"7d\": 1.528664269613827, \"24h\": -0.5288556781168073, \"30d\": -58.547717006125936, \"90d\": 22.62166163325261}"
+                    }
+                ]
+            },
+            {
+                "id": "6024f31be7f14c0007d0dd00",
+                "name": "1INCH",
+                "slug": "1inch",
+                "symbol": "1INCH",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 3439983.1401660047,
+                        "changePercentages": "{\"1y\": -99.64719426262965, \"7d\": -6.756505160790533, \"24h\": 0.00022408594534317972, \"30d\": 6.420235294890977, \"90d\": 18.219435209377405}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 1351342.3368839724,
+                        "changePercentages": "{\"1y\": -95.07734646146204, \"7d\": -33.26723365227892, \"24h\": 5.248249220562986, \"30d\": -18.02251004125162, \"90d\": 9.602903851015096}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 96.4712461821952,
+                        "changePercentages": "{\"1y\": -1.840255662485462, \"7d\": 0.45125288242268985, \"24h\": 0, \"30d\": 0.4523771448761763, \"90d\": 0.5648820394411124}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 1447068692.732928,
+                        "changePercentages": "{\"1y\": -1.8402556624854571, \"7d\": 0.4512528824226858, \"24h\": 0, \"30d\": 0.45237714487618647, \"90d\": 0.5648820394411149}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 42748666.78084834,
+                        "changePercentages": "{\"1y\": 77.91470772076826, \"7d\": -8.474072425468048, \"24h\": 23.091934370421242, \"30d\": -28.286686569626745, \"90d\": 20.871741909887888}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 1447068692.732928,
+                        "changePercentages": "{\"1y\": -1.364225779350061, \"7d\": 0.4512528824226858, \"24h\": 0, \"30d\": 0.45237714487618647, \"90d\": 0.5648820394411149}"
+                    },
+                    {
+                        "metricKey": "inflation_rate",
+                        "unit": null,
+                        "defaultValue": 0,
+                        "changePercentages": "{\"1y\": 0, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": 0}"
+                    },
+                    {
+                        "metricKey": "marketcap",
+                        "unit": "USD",
+                        "defaultValue": 463982588.3895067,
+                        "changePercentages": "{\"1y\": 0.7303572622727732, \"7d\": -26.919997855666054, \"24h\": 7.7806113808606066, \"30d\": -21.048088651690186, \"90d\": -0.7788220149604463}"
+                    },
+                    {
+                        "metricKey": "market_cap",
+                        "unit": null,
+                        "defaultValue": 301202395.2522298,
+                        "changePercentages": "{\"1y\": 14.73093534847297, \"7d\": 0.884213582852813, \"24h\": -2.0574458641475712, \"30d\": 14.73093534847297, \"90d\": 14.73093534847297}"
+                    },
+                    {
+                        "metricKey": "net_staking_flow",
+                        "unit": null,
+                        "defaultValue": 180.17308048619054,
+                        "changePercentages": "{\"1y\": -105.2093195262344, \"7d\": -101.02570088695482, \"24h\": -99.28843620757549, \"30d\": -100.19871707265624, \"90d\": -97.67434641591687}"
+                    }
+                ]
+            },
+            {
+                "id": "6025303bf12a3a0007c993a6",
+                "name": "PancakeSwap",
+                "slug": "pancakeswap",
+                "symbol": "CAKE",
+                "metrics": [
+                    {
+                        "metricKey": "annualized_rewards",
+                        "unit": null,
+                        "defaultValue": 5474911.392286631,
+                        "changePercentages": "{\"1y\": -34.410245922221335, \"7d\": -11.067956080758911, \"24h\": -0.13733853198579013, \"30d\": -37.22226637250598, \"90d\": -34.410245922221335}"
+                    },
+                    {
+                        "metricKey": "annualized_rewards_usd",
+                        "unit": null,
+                        "defaultValue": 14891758.987019638,
+                        "changePercentages": "{\"1y\": -25.735222206363368, \"7d\": -34.62292987558494, \"24h\": 4.875073047489842, \"30d\": -54.826604373866736, \"90d\": -60.35463753520934}"
+                    },
+                    {
+                        "metricKey": "benchmark_daily_fees",
+                        "unit": null,
+                        "defaultValue": 829918.3254101623,
+                        "changePercentages": "{\"1y\": 51.49482252437887, \"7d\": 51.78570903368877, \"24h\": 14.454190857226411, \"30d\": 109.03289818726687, \"90d\": 141.69499157639572}"
+                    },
+                    {
+                        "metricKey": "block_reward",
+                        "unit": "CAKE",
+                        "defaultValue": 1.36263606636,
+                        "changePercentages": "{\"1y\": -84.85567640294825, \"7d\": 0, \"24h\": 0, \"30d\": 0, \"90d\": -0.000000000000016295224411473085}"
+                    },
+                    {
+                        "metricKey": "block_time",
+                        "unit": "s",
+                        "defaultValue": 3.002,
+                        "changePercentages": "{\"1y\": -1.054713249835202, \"7d\": 0.0333222259246881, \"24h\": 0.06666666666665932, \"30d\": 0.06666666666665932, \"90d\": -1.054713249835202}"
+                    },
+                    {
+                        "metricKey": "block_time_30d",
+                        "unit": "s",
+                        "defaultValue": 3.0063314763231137,
+                        "changePercentages": "{\"1y\": -0.8815294126733068, \"7d\": 0.009178831277702477, \"24h\": 0.003221287201697597, \"30d\": 0.024427979954620715, \"90d\": 0.00943867127415638}"
+                    },
+                    {
+                        "metricKey": "circulating_percentage",
+                        "unit": null,
+                        "defaultValue": 64.81014243899358,
+                        "changePercentages": "{\"1y\": -35.18985756100642, \"7d\": 0.6232133968437777, \"24h\": 0.09051489055707679, \"30d\": 1.9493675994897954, \"90d\": -35.18985756100642}"
+                    },
+                    {
+                        "metricKey": "circulating_supply",
+                        "unit": null,
+                        "defaultValue": 249100222.3713385,
+                        "changePercentages": "{\"1y\": -34.735396014360944, \"7d\": 0.5990309376349688, \"24h\": 0.09051489055707716, \"30d\": 1.801531689485985, \"90d\": -35.42428298669578}"
+                    },
+                    {
+                        "metricKey": "daily_trading_volume",
+                        "unit": "USD",
+                        "defaultValue": 75586029.59485565,
+                        "changePercentages": "{\"1y\": 18.479525703137913, \"7d\": -19.99446514878955, \"24h\": 1.4803351169342238, \"30d\": -59.919827317283506, \"90d\": 41.6978501799579}"
+                    },
+                    {
+                        "metricKey": "eligible_supply",
+                        "unit": null,
+                        "defaultValue": 249100222.3713385,
+                        "changePercentages": "{\"1y\": 0.6552135731163822, \"7d\": 0.5990309376349688, \"24h\": 0.09051489055707716, \"30d\": 1.801531689485985, \"90d\": 0.6552135731163822}"
+                    }
+                ]
+            }
+        ]
+    }
+}

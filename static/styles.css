@@ -1,0 +1,29 @@
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    padding: 8px; /* Adjust padding to make it less cramped */
+    text-align: left;
+    font-size: 14px; /* Ensure the font size is not too large */
+    white-space: nowrap; /* Keeps content in a single line */
+}
+
+.table th {
+    background-color: #e9ecef; /* Light gray background for headers */
+    position: sticky;
+    top: 0; /* Makes the header sticky */
+}
+
+/* Add zebra striping for better differentiation of rows */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.table-responsive {
+    overflow-x: auto; /* Ensures scrolling happens only when necessary */
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on touch devices */
+    border: 1px solid #ddd; /* Adds a light border for better definition */
+}
